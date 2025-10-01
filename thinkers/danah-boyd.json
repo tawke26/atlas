@@ -1,0 +1,59 @@
+{
+  "id": "danah-boyd",
+  "slug": "danah-boyd",
+  "name": "danah boyd",
+  "tagline": "Researcher studying technology's impact on youth, privacy, and society",
+  "bio": "danah boyd is a researcher who has spent decades studying how technology—particularly social media—shapes identity, relationships, and culture, with special focus on how teenagers navigate digital life. Her work combines ethnographic research with sharp analysis of power dynamics embedded in technological systems.\n\nWhat makes boyd distinctive is her insistence on understanding technology from users' perspectives rather than imposing external judgments. She's shown how teens use social media for connection and identity formation in contexts shaped by reduced physical mobility and increased surveillance. Her work complicates simplistic narratives about 'kids these days' and 'technology addiction.'\n\nBoyd has also become increasingly focused on how data systems perpetuate inequality and how misinformation spreads through media manipulation. She connects technical architecture decisions to social justice questions, showing how seemingly neutral systems encode values and power structures.",
+  "perspective": {
+    "stance": "Technology amplifies existing social dynamics and power structures; understanding user contexts and motivations is essential to designing ethical systems",
+    "approach": "ethnographic-critical",
+    "expertise": [
+      "Youth Culture",
+      "Social Media",
+      "Privacy",
+      "Data Ethics",
+      "Misinformation"
+    ]
+  },
+  "primaryDiscipline": "technology-society",
+  "topics": [
+    "youth-and-technology",
+    "social-media-culture",
+    "privacy",
+    "data-ethics",
+    "misinformation",
+    "digital-inequality",
+    "networked-publics"
+  ],
+  "notableWork": [
+    {
+      "title": "It's Complicated: The Social Lives of Networked Teens",
+      "url": "https://www.danah.org/books/ItsComplicated.pdf",
+      "type": "book",
+      "description": "Ethnographic study of how teenagers use social media and navigate digital life"
+    },
+    {
+      "title": "Data & Society Research Institute",
+      "url": "https://datasociety.net/",
+      "type": "project",
+      "description": "Research institute she founded studying social implications of data and automation"
+    },
+    {
+      "title": "You Think You Want Media Literacy... Do You?",
+      "url": "https://points.datasociety.net/you-think-you-want-media-literacy-do-you-7cad6af18ec2",
+      "type": "article",
+      "description": "Critical examination of media literacy movements"
+    }
+  ],
+  "links": {
+    "website": "https://www.danah.org/",
+    "twitter": "https://twitter.com/zephoria",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

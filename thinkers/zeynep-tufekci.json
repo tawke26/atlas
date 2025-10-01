@@ -1,0 +1,65 @@
+{
+  "id": "zeynep-tufekci",
+  "slug": "zeynep-tufekci",
+  "name": "Zeynep Tufekci",
+  "tagline": "Technosociologist examining digital power and social movements",
+  "bio": "Zeynep Tufekci is a sociologist and writer who studies the social implications of technology, particularly how digital platforms shape collective action, public health communication, and democracy. She's known for her ability to bridge technical understanding with social analysis, making complex dynamics accessible without oversimplification.\n\nHer work spans from analyzing how social movements use technology (explored in her book 'Twitter and Tear Gas') to early warnings about pandemic preparedness and the dangers of algorithmic amplification. She writes opinion pieces for The New York Times and has been a leading voice in understanding how recommendation algorithms shape public discourse.\n\nTufekci combines empirical research with real-world observation, drawing on her background in computer programming and sociology. Her perspective is neither technophobic nor techno-utopian—she examines both the affordances and dangers of digital platforms with nuance and clarity.",
+  "perspective": {
+    "stance": "Technology's impact on society is neither inherently good nor bad, but shaped by power structures, design choices, and how we collectively respond to it",
+    "approach": "empirical",
+    "expertise": [
+      "Sociology",
+      "Technology Studies",
+      "Social Movements",
+      "Public Health Communication",
+      "Algorithmic Systems"
+    ]
+  },
+  "primaryDiscipline": "technology-society",
+  "topics": [
+    "social-media-platforms",
+    "algorithmic-amplification",
+    "collective-action",
+    "digital-protest",
+    "misinformation",
+    "public-health",
+    "surveillance"
+  ],
+  "notableWork": [
+    {
+      "title": "Twitter and Tear Gas: The Power and Fragility of Networked Protest",
+      "url": "https://www.twitterandteargas.org/",
+      "type": "book",
+      "description": "An analysis of how social media changes social movements—from the Arab Spring to Black Lives Matter"
+    },
+    {
+      "title": "NYT Opinion Columns",
+      "url": "https://www.nytimes.com/column/zeynep-tufekci",
+      "type": "article",
+      "description": "Regular columns on technology, society, and public health"
+    },
+    {
+      "title": "How social media took us from Tahrir Square to Donald Trump",
+      "url": "https://www.ted.com/talks/zeynep_tufekci_how_social_media_took_us_from_tahrir_square_to_donald_trump",
+      "type": "talk",
+      "description": "TED talk on the evolution and consequences of algorithmic curation"
+    },
+    {
+      "title": "You're Getting Played by Social Media",
+      "url": "https://www.theatlantic.com/technology/archive/2023/03/tiktok-instagram-algorithm-youtube-recommendations/673400/",
+      "type": "article",
+      "description": "Analysis of how recommendation algorithms manipulate attention"
+    }
+  ],
+  "links": {
+    "website": "https://www.zeynep.org/",
+    "twitter": "https://twitter.com/zeynep",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

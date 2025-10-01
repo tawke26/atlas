@@ -1,0 +1,59 @@
+{
+  "id": "albie-sachs",
+  "slug": "albie-sachs",
+  "name": "Albie Sachs",
+  "tagline": "Constitutional court justice who helped build post-apartheid South Africa",
+  "bio": "Albie Sachs is a South African lawyer and former Constitutional Court justice who fought apartheid, survived an assassination attempt, and helped write South Africa's post-apartheid constitution. His life embodies the arc from resistance to reconciliation to nation-building.\n\nSachs spent years in exile after apartheid security forces planted a bomb in his car, costing him an arm and sight in one eye. Rather than seeking vengeance, he became an advocate for restorative justice and inclusive democracy. As a Constitutional Court justice, he helped interpret South Africa's remarkably progressive constitution, including groundbreaking rulings on LGBT rights.\n\nHis writing and speeches reflect on law, justice, reconciliation, and the role of art and culture in healing divided societies. He represents principled idealism tempered by lived experience of injustice.",
+  "perspective": {
+    "stance": "Justice requires both accountability and reconciliation; constitutional democracy must protect dignity and enable human flourishing for all",
+    "approach": "constitutional-humanistic",
+    "expertise": [
+      "Constitutional Law",
+      "Human Rights",
+      "Restorative Justice",
+      "South African History",
+      "Transitional Justice"
+    ]
+  },
+  "primaryDiscipline": "justice-rights",
+  "topics": [
+    "constitutional-law",
+    "human-rights",
+    "restorative-justice",
+    "post-apartheid",
+    "reconciliation",
+    "dignity",
+    "transitional-justice"
+  ],
+  "notableWork": [
+    {
+      "title": "The Strange Alchemy of Life and Law",
+      "url": "https://global.oup.com/academic/product/the-strange-alchemy-of-life-and-law-9780199601110",
+      "type": "book",
+      "description": "Memoir blending personal history with constitutional jurisprudence"
+    },
+    {
+      "title": "We, the People: Insights of an Activist Judge",
+      "url": "https://www.wits.ac.za/wup/books/we-the-people/",
+      "type": "book",
+      "description": "Reflections on South African constitution and Constitutional Court"
+    },
+    {
+      "title": "The Soft Vengeance of a Freedom Fighter",
+      "url": "https://www.ucpress.edu/book/9780520274327/the-soft-vengeance-of-a-freedom-fighter",
+      "type": "book",
+      "description": "Memoir of surviving assassination attempt and choosing reconciliation"
+    }
+  ],
+  "links": {
+    "website": "https://en.wikipedia.org/wiki/Albie_Sachs",
+    "twitter": null,
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

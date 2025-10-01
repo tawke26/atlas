@@ -1,0 +1,85 @@
+{
+  "disciplines": [
+    {
+      "id": "technology-society",
+      "name": "Technology & Society",
+      "slug": "technology-society",
+      "description": "How digital platforms, AI, and emerging technologies shape culture, power, and human connection",
+      "starterThinkers": ["zeynep-tufekci", "ethan-zuckerman", "danah-boyd"],
+      "color": "#3B82F6"
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "description": "Questions of ethics, identity, consciousness, meaning, and how we should live",
+      "starterThinkers": ["kwame-anthony-appiah", "martha-nussbaum", "daniel-dennett"],
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "economics-systems",
+      "name": "Economics & Systems",
+      "slug": "economics-systems",
+      "description": "Markets, inequality, innovation, and alternative ways of organizing economic life",
+      "starterThinkers": ["mariana-mazzucato", "kate-raworth", "branko-milanovic"],
+      "color": "#10B981"
+    },
+    {
+      "id": "psychology-mind",
+      "name": "Psychology & Mind",
+      "slug": "psychology-mind",
+      "description": "Human behavior, cognition, emotions, and what shapes who we are",
+      "starterThinkers": ["lisa-feldman-barrett", "paul-bloom", "carol-dweck"],
+      "color": "#F59E0B"
+    },
+    {
+      "id": "climate-environment",
+      "name": "Climate & Environment",
+      "slug": "climate-environment",
+      "description": "Climate science, ecological sustainability, and environmental justice",
+      "starterThinkers": ["kate-marvel", "ayana-elizabeth-johnson", "michael-mann"],
+      "color": "#059669"
+    },
+    {
+      "id": "politics-power",
+      "name": "Politics & Power",
+      "slug": "politics-power",
+      "description": "Democracy, governance, authoritarianism, and the dynamics of political systems",
+      "starterThinkers": ["yascha-mounk", "anne-applebaum", "francis-fukuyama"],
+      "color": "#DC2626"
+    },
+    {
+      "id": "science-research",
+      "name": "Science & Research",
+      "slug": "science-research",
+      "description": "Cutting-edge discoveries, scientific method, and understanding the universe",
+      "starterThinkers": ["sean-carroll", "jennifer-doudna", "carlo-rovelli"],
+      "color": "#6366F1"
+    },
+    {
+      "id": "culture-media",
+      "name": "Culture & Media",
+      "slug": "culture-media",
+      "description": "Art, literature, criticism, and the stories we tell about ourselves",
+      "starterThinkers": ["jia-tolentino", "ta-nehisi-coates", "pankaj-mishra"],
+      "color": "#EC4899"
+    },
+    {
+      "id": "justice-rights",
+      "name": "Justice & Rights",
+      "slug": "justice-rights",
+      "description": "Human rights, criminal justice reform, and the pursuit of social justice",
+      "starterThinkers": ["bryan-stevenson", "kimberle-crenshaw", "albie-sachs"],
+      "color": "#EF4444"
+    },
+    {
+      "id": "history-civilization",
+      "name": "History & Civilization",
+      "slug": "history-civilization",
+      "description": "Understanding the past to make sense of the present and future",
+      "starterThinkers": ["yuval-noah-harari", "jill-lepore", "timothy-snyder"],
+      "color": "#78716C"
+    }
+  ]
+}
+

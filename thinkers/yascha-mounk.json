@@ -1,0 +1,59 @@
+{
+  "id": "yascha-mounk",
+  "slug": "yascha-mounk",
+  "name": "Yascha Mounk",
+  "tagline": "Political scientist examining threats to liberal democracy and paths forward",
+  "bio": "Yascha Mounk is a political scientist who studies democracy, populism, and identity politics. His work examines why liberal democracies are under strain globally and what it would take to strengthen them. He's concerned both with right-wing authoritarianism and what he sees as illiberal tendencies on the left.\n\nMounk's approach combines comparative politics, intellectual history, and normative theory. He argues for inclusive nationalism and civic solidarity as alternatives to both nativist populism and identity-focused progressive politics. His work is both diagnostic (what's going wrong) and prescriptive (what should we do).\n\nHe writes accessibly for general audiences while maintaining analytical rigor, hosting the podcast 'The Good Fight' where he interviews diverse perspectives on democracy and pluralism.",
+  "perspective": {
+    "stance": "Liberal democracy is under threat from populism and illiberalism; we need inclusive civic nationalism and genuine pluralism to sustain diverse democracies",
+    "approach": "comparative-normative",
+    "expertise": [
+      "Democracy",
+      "Populism",
+      "Identity Politics",
+      "Political Theory",
+      "Comparative Politics"
+    ]
+  },
+  "primaryDiscipline": "politics-power",
+  "topics": [
+    "democracy",
+    "populism",
+    "identity-politics",
+    "pluralism",
+    "nationalism",
+    "liberalism",
+    "authoritarianism"
+  ],
+  "notableWork": [
+    {
+      "title": "The People vs. Democracy",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674976825",
+      "type": "book",
+      "description": "Analysis of illiberal democracy and undemocratic liberalism"
+    },
+    {
+      "title": "The Great Experiment: Why Diverse Democracies Fall Apart and How They Can Endure",
+      "url": "https://www.penguinrandomhouse.com/books/669074/the-great-experiment-by-yascha-mounk/",
+      "type": "book",
+      "description": "On building successful diverse democracies"
+    },
+    {
+      "title": "The Good Fight Podcast",
+      "url": "https://www.persuasion.community/",
+      "type": "podcast",
+      "description": "Conversations on democracy, pluralism, and ideas"
+    }
+  ],
+  "links": {
+    "website": "https://www.yaschamounk.com/",
+    "twitter": "https://twitter.com/Yascha_Mounk",
+    "substack": "https://www.persuasion.community/"
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

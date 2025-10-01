@@ -1,0 +1,59 @@
+{
+  "id": "paul-bloom",
+  "slug": "paul-bloom",
+  "name": "Paul Bloom",
+  "tagline": "Psychologist exploring empathy, morality, and the nature of pleasure",
+  "bio": "Paul Bloom is a psychologist who studies the cognitive and emotional foundations of morality, examining how we make moral judgments and what drives our sense of right and wrong. He's perhaps best known for his controversial argument that empathy, while feeling good, can actually lead to poor moral decision-making because it's biased, narrow, and emotionally overwhelming.\n\nBloom's work spans developmental psychology (how babies think), moral psychology (how we judge), and the psychology of pleasure (why we enjoy what we enjoy). He combines experimental research with philosophical reflection, always asking how psychological findings inform how we should live. His writing is clear and engaging, making complex research accessible.\n\nWhat makes Bloom provocative is his willingness to challenge intuitions that feel obviously right. He argues for rational compassion over empathy, explores why we value authenticity and essentialism, and examines the cognitive basis of our deepest pleasures and pains.",
+  "perspective": {
+    "stance": "Moral judgment should be guided more by reason and principle than by empathetic feelings; understanding psychological biases helps us make better ethical choices",
+    "approach": "experimental-philosophical",
+    "expertise": [
+      "Moral Psychology",
+      "Developmental Psychology",
+      "Empathy",
+      "Pleasure",
+      "Cognitive Science"
+    ]
+  },
+  "primaryDiscipline": "psychology-mind",
+  "topics": [
+    "moral-psychology",
+    "empathy",
+    "cognitive-development",
+    "pleasure",
+    "essentialism",
+    "rational-compassion",
+    "moral-judgment"
+  ],
+  "notableWork": [
+    {
+      "title": "Against Empathy: The Case for Rational Compassion",
+      "url": "https://www.harpercollins.com/products/against-empathy-paul-bloom",
+      "type": "book",
+      "description": "Argument that empathy is a poor guide to moral action"
+    },
+    {
+      "title": "How Pleasure Works: The New Science of Why We Like What We Like",
+      "url": "https://www.wwnorton.com/books/How-Pleasure-Works/",
+      "type": "book",
+      "description": "Exploration of what makes experiences pleasurable"
+    },
+    {
+      "title": "Just Babies: The Origins of Good and Evil",
+      "url": "https://www.penguinrandomhouse.com/books/308005/just-babies-by-paul-bloom/",
+      "type": "book",
+      "description": "Research on innate moral sense in infants"
+    }
+  ],
+  "links": {
+    "website": "https://www.paulbloom.net/",
+    "twitter": "https://twitter.com/paulbloomatyale",
+    "substack": "https://paulbloom.substack.com/"
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

@@ -1,0 +1,59 @@
+{
+  "id": "mariana-mazzucato",
+  "slug": "mariana-mazzucato",
+  "name": "Mariana Mazzucato",
+  "tagline": "Economist rethinking the role of government in innovation and value creation",
+  "bio": "Mariana Mazzucato is an economist who challenges fundamental assumptions about how innovation happens and who creates value in the economy. Her central argument: government doesn't just fix market failures—it actively creates and shapes markets, especially in high-risk innovation. Yet public sector contributions are systematically undervalued while private returns are overstated.\n\nMazzucato's work examines major technological breakthroughs (internet, GPS, touchscreens) and traces how government-funded research enabled them, often taking risks private capital wouldn't. She argues this 'entrepreneurial state' deserves recognition and returns on its investments. Her approach combines economic history, innovation economics, and policy analysis.\n\nShe's advised governments globally on innovation policy, industrial strategy, and how to structure public-private partnerships that benefit society rather than just extracting value. Mazzucato represents a new generation of economists willing to fundamentally rethink market ideology.",
+  "perspective": {
+    "stance": "Government plays a crucial entrepreneurial role in innovation; we need new frameworks that recognize public value creation and ensure collective benefit",
+    "approach": "institutional-historical",
+    "expertise": [
+      "Innovation Economics",
+      "Industrial Policy",
+      "Public Value",
+      "Economic History",
+      "Technology Policy"
+    ]
+  },
+  "primaryDiscipline": "economics-systems",
+  "topics": [
+    "innovation-economics",
+    "entrepreneurial-state",
+    "public-value",
+    "industrial-policy",
+    "value-theory",
+    "mission-economy",
+    "stakeholder-capitalism"
+  ],
+  "notableWork": [
+    {
+      "title": "The Entrepreneurial State: Debunking Public vs. Private Sector Myths",
+      "url": "https://marianamazzucato.com/books/the-entrepreneurial-state",
+      "type": "book",
+      "description": "Argument that government drives innovation, not just facilitates it"
+    },
+    {
+      "title": "The Value of Everything: Making and Taking in the Global Economy",
+      "url": "https://marianamazzucato.com/books/the-value-of-everything",
+      "type": "book",
+      "description": "Critique of how we measure value and who gets credit for creating it"
+    },
+    {
+      "title": "Mission Economy: A Moonshot Guide to Changing Capitalism",
+      "url": "https://marianamazzucato.com/books/mission-economy",
+      "type": "book",
+      "description": "Framework for organizing economies around ambitious missions"
+    }
+  ],
+  "links": {
+    "website": "https://marianamazzucato.com/",
+    "twitter": "https://twitter.com/MazzucatoM",
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

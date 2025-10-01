@@ -1,0 +1,59 @@
+{
+  "id": "jennifer-doudna",
+  "slug": "jennifer-doudna",
+  "name": "Jennifer Doudna",
+  "tagline": "Biochemist who pioneered CRISPR gene editing and grapples with its implications",
+  "bio": "Jennifer Doudna is a biochemist who co-discovered CRISPR-Cas9 gene editing, a breakthrough that earned her the Nobel Prize and revolutionized biology. CRISPR allows precise editing of DNA, with implications for medicine, agriculture, and potentially human evolution itself.\n\nWhat makes Doudna significant beyond the science is her engagement with CRISPR's ethical implications. She's been vocal about the need for responsible use of gene editing, particularly regarding human embryos. She organized early discussions about governance and ethics, recognizing that scientists can't abdicate responsibility for how their discoveries are used.\n\nDoudna represents a scientist who takes public engagement seriously, writing accessibly about her work while advocating for thoughtful regulation and ethical guidelines for transformative technologies.",
+  "perspective": {
+    "stance": "Gene editing offers tremendous benefits but requires careful ethical consideration and governance; scientists must engage with societal implications",
+    "approach": "scientific-ethical",
+    "expertise": [
+      "Biochemistry",
+      "Gene Editing",
+      "CRISPR",
+      "Molecular Biology",
+      "Bioethics"
+    ]
+  },
+  "primaryDiscipline": "science-research",
+  "topics": [
+    "crispr",
+    "gene-editing",
+    "bioethics",
+    "genetic-engineering",
+    "molecular-biology",
+    "biotechnology",
+    "responsible-innovation"
+  ],
+  "notableWork": [
+    {
+      "title": "A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution",
+      "url": "https://www.harpercollins.com/products/a-crack-in-creation-jennifer-a-doudnasamuel-h-sternberg",
+      "type": "book",
+      "description": "Accessible account of CRISPR discovery and its ethical implications"
+    },
+    {
+      "title": "CRISPR Research",
+      "url": "https://innovativegenomics.org/",
+      "type": "project",
+      "description": "Innovative Genomics Institute advancing gene editing research"
+    },
+    {
+      "title": "Nobel Prize Lecture",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2020/doudna/lecture/",
+      "type": "talk",
+      "description": "Overview of CRISPR discovery and future directions"
+    }
+  ],
+  "links": {
+    "website": "https://innovativegenomics.org/team/jennifer-doudna/",
+    "twitter": "https://twitter.com/doudna_lab",
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

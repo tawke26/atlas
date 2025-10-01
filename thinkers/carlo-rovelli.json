@@ -1,0 +1,65 @@
+{
+  "id": "carlo-rovelli",
+  "slug": "carlo-rovelli",
+  "name": "Carlo Rovelli",
+  "tagline": "Physicist exploring quantum gravity, time, and the nature of reality",
+  "bio": "Carlo Rovelli is a theoretical physicist working on quantum gravity—attempting to reconcile quantum mechanics with general relativity. He's one of the founders of loop quantum gravity, an approach that suggests space itself is made of discrete quanta rather than being continuous.\n\nRovelli has become known not just for technical physics but for lyrical, accessible writing about science and reality. His books blend rigorous physics with philosophical reflection and poetic sensibility, making fundamental physics accessible without oversimplification. He writes about time, space, consciousness, and what physics tells us about existence.\n\nWhat makes Rovelli distinctive is his integration of scientific rigor with humanistic breadth—he reads philosophy, discusses ancient atomists alongside quantum field theory, and maintains wonder while pursuing precision.",
+  "perspective": {
+    "stance": "Physics reveals a reality far stranger than common sense suggests; understanding requires both technical mastery and philosophical reflection",
+    "approach": "theoretical-philosophical",
+    "expertise": [
+      "Quantum Gravity",
+      "Theoretical Physics",
+      "Philosophy of Science",
+      "Time",
+      "Cosmology"
+    ]
+  },
+  "primaryDiscipline": "science-research",
+  "topics": [
+    "quantum-gravity",
+    "loop-quantum-gravity",
+    "time",
+    "spacetime",
+    "physics-philosophy",
+    "reality",
+    "quantum-mechanics"
+  ],
+  "notableWork": [
+    {
+      "title": "The Order of Time",
+      "url": "https://www.penguinrandomhouse.com/books/555550/the-order-of-time-by-carlo-rovelli/",
+      "type": "book",
+      "description": "Exploration of time's nature through physics and philosophy"
+    },
+    {
+      "title": "Seven Brief Lessons on Physics",
+      "url": "https://www.penguinrandomhouse.com/books/314163/seven-brief-lessons-on-physics-by-carlo-rovelli/",
+      "type": "book",
+      "description": "Elegant introduction to modern physics"
+    },
+    {
+      "title": "Reality Is Not What It Seems",
+      "url": "https://www.penguinrandomhouse.com/books/533726/reality-is-not-what-it-seems-by-carlo-rovelli/",
+      "type": "book",
+      "description": "Accessible account of loop quantum gravity"
+    },
+    {
+      "title": "Helgoland",
+      "url": "https://www.penguinrandomhouse.com/books/656068/helgoland-by-carlo-rovelli/",
+      "type": "book",
+      "description": "On quantum mechanics and meaning of reality"
+    }
+  ],
+  "links": {
+    "website": "http://www.cpt.univ-mrs.fr/~rovelli/",
+    "twitter": null,
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

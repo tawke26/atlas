@@ -1,0 +1,65 @@
+{
+  "id": "ethan-zuckerman",
+  "slug": "ethan-zuckerman",
+  "name": "Ethan Zuckerman",
+  "tagline": "Scholar reimagining digital public spaces and civic technology",
+  "bio": "Ethan Zuckerman is a scholar and activist who studies how the internet shapes civic engagement, particularly in developing countries and marginalized communities. He's interested in how digital tools can strengthen democracy rather than undermine it, and how we might build online spaces that serve the public good rather than corporate interests.\n\nZuckerman has a unique background—he was an early internet entrepreneur (co-founded Tripod) who became increasingly critical of the advertising-driven internet he helped create. This insider-turned-critic perspective informs his work on alternative models for digital public infrastructure. He asks: what if social media platforms were designed for citizenship rather than engagement?\n\nHe directs the Initiative for Digital Public Infrastructure at UMass Amherst, exploring how we might build genuinely public digital spaces. His work combines technical understanding with deep commitment to democratic values and global perspective.",
+  "perspective": {
+    "stance": "The current model of corporate-controlled social media is failing democracy; we need publicly-minded digital infrastructure designed for civic engagement",
+    "approach": "sociotechnical",
+    "expertise": [
+      "Digital Media",
+      "Civic Technology",
+      "International Development",
+      "Internet Governance",
+      "Public Infrastructure"
+    ]
+  },
+  "primaryDiscipline": "technology-society",
+  "topics": [
+    "digital-public-infrastructure",
+    "civic-technology",
+    "social-media-alternatives",
+    "internet-governance",
+    "global-internet",
+    "misinformation",
+    "digital-democracy"
+  ],
+  "notableWork": [
+    {
+      "title": "Mistrust: Why Losing Faith in Institutions Provides the Tools to Transform Them",
+      "url": "https://wwnorton.com/books/9781324006251",
+      "type": "book",
+      "description": "Examination of institutional distrust and pathways to rebuilding"
+    },
+    {
+      "title": "Rewire: Digital Cosmopolitans in the Age of Connection",
+      "url": "https://wwnorton.com/books/Rewire/",
+      "type": "book",
+      "description": "On breaking out of filter bubbles and engaging with global perspectives"
+    },
+    {
+      "title": "Initiative for Digital Public Infrastructure",
+      "url": "https://publicinfrastructure.org/",
+      "type": "project",
+      "description": "Research center reimagining social media as public infrastructure"
+    },
+    {
+      "title": "My Tiny Kingdom",
+      "url": "https://www.ethanzuckerman.com/",
+      "type": "article",
+      "description": "His blog on technology, society, and civic engagement"
+    }
+  ],
+  "links": {
+    "website": "https://www.ethanzuckerman.com/",
+    "twitter": "https://twitter.com/ethanz",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

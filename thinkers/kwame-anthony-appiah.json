@@ -1,0 +1,66 @@
+{
+  "id": "kwame-anthony-appiah",
+  "slug": "kwame-anthony-appiah",
+  "name": "Kwame Anthony Appiah",
+  "tagline": "Philosopher exploring identity, cosmopolitanism, and moral complexity",
+  "bio": "Kwame Anthony Appiah is a philosopher whose work spans ethics, identity, culture, and the philosophy of language. He's best known for developing a philosophical framework for cosmopolitanism—the idea that we have obligations to strangers while respecting difference—and for interrogating how identities like race, nationality, and religion shape moral and political life.\n\nAppiah brings unusual breadth to philosophy: trained in analytic tradition, deeply engaged with African philosophy and history, comfortable with both abstract theory and concrete ethical questions. His writing is elegant and accessible, making complex philosophical ideas available to general readers without sacrificing rigor.\n\nHe's written extensively on honor, dignity, ethics, and the complexities of cultural identity. His work navigates between universal moral principles and cultural particularity, arguing we can maintain both commitments. Appiah also writes 'The Ethicist' column for the New York Times Magazine, applying philosophical thinking to everyday moral dilemmas.",
+  "perspective": {
+    "stance": "We can be rooted in particular identities while recognizing shared humanity; cosmopolitanism requires both respect for difference and commitment to universal values",
+    "approach": "analytic-humanistic",
+    "expertise": [
+      "Ethics",
+      "Identity",
+      "Cosmopolitanism",
+      "African Philosophy",
+      "Political Philosophy",
+      "Philosophy of Language"
+    ]
+  },
+  "primaryDiscipline": "philosophy",
+  "topics": [
+    "cosmopolitanism",
+    "identity",
+    "ethics",
+    "race",
+    "honor",
+    "cultural-philosophy",
+    "moral-complexity"
+  ],
+  "notableWork": [
+    {
+      "title": "Cosmopolitanism: Ethics in a World of Strangers",
+      "url": "https://wwnorton.com/books/Cosmopolitanism/",
+      "type": "book",
+      "description": "Framework for navigating moral obligations across cultural boundaries"
+    },
+    {
+      "title": "The Honor Code: How Moral Revolutions Happen",
+      "url": "https://wwnorton.com/books/The-Honor-Code/",
+      "type": "book",
+      "description": "Historical analysis of how honor systems drive moral change"
+    },
+    {
+      "title": "The Lies That Bind: Rethinking Identity",
+      "url": "https://wwnorton.com/books/9781631490569",
+      "type": "book",
+      "description": "Critique of how we think about identity categories like race, nation, religion"
+    },
+    {
+      "title": "The Ethicist Column",
+      "url": "https://www.nytimes.com/column/the-ethicist",
+      "type": "article",
+      "description": "Regular ethics advice column in New York Times Magazine"
+    }
+  ],
+  "links": {
+    "website": "https://philosophy.as.nyu.edu/object/anthonyappiah",
+    "twitter": "https://twitter.com/KwameAppiah",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

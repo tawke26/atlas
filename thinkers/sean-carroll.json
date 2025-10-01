@@ -1,0 +1,66 @@
+{
+  "id": "sean-carroll",
+  "slug": "sean-carroll",
+  "name": "Sean Carroll",
+  "tagline": "Physicist exploring cosmology, quantum mechanics, and the nature of reality",
+  "bio": "Sean Carroll is a theoretical physicist whose work spans cosmology, quantum mechanics, and the foundations of physics. He's rare among physicists for his ability to communicate cutting-edge research to general audiences without dumbing it down—he respects both the complexity of the science and the intelligence of his readers.\n\nCarroll's research focuses on fundamental questions: What is spacetime? How does time work? What is the universe made of? He's contributed to understanding dark energy, entropy, and the many-worlds interpretation of quantum mechanics. Beyond technical research, he thinks deeply about what physics tells us about philosophy, consciousness, and meaning.\n\nHe hosts the Mindscape podcast where he interviews scientists, philosophers, and thinkers across disciplines, always probing foundational questions. Carroll represents a kind of public intellectual physicists—comfortable with speculation while grounded in rigorous science.",
+  "perspective": {
+    "stance": "The laws of physics are our best guide to understanding reality; many seemingly deep philosophical questions may have scientific answers",
+    "approach": "theoretical-empirical",
+    "expertise": [
+      "Cosmology",
+      "Quantum Mechanics",
+      "Philosophy of Science",
+      "Spacetime",
+      "Thermodynamics"
+    ]
+  },
+  "primaryDiscipline": "science-research",
+  "topics": [
+    "cosmology",
+    "quantum-mechanics",
+    "time",
+    "spacetime",
+    "dark-energy",
+    "many-worlds",
+    "philosophy-of-science",
+    "entropy"
+  ],
+  "notableWork": [
+    {
+      "title": "The Biggest Ideas in the Universe",
+      "url": "https://www.preposterousuniverse.com/biggestideas/",
+      "type": "book",
+      "description": "Accessible yet rigorous explanation of fundamental physics concepts"
+    },
+    {
+      "title": "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime",
+      "url": "https://www.penguinrandomhouse.com/books/555950/something-deeply-hidden-by-sean-carroll/",
+      "type": "book",
+      "description": "Exploration of many-worlds interpretation and quantum foundations"
+    },
+    {
+      "title": "The Big Picture: On the Origins of Life, Meaning, and the Universe Itself",
+      "url": "https://www.penguinrandomhouse.com/books/317187/the-big-picture-by-sean-carroll/",
+      "type": "book",
+      "description": "Synthesis of physics, philosophy, and meaning-making"
+    },
+    {
+      "title": "Mindscape Podcast",
+      "url": "https://www.preposterousuniverse.com/podcast/",
+      "type": "podcast",
+      "description": "Wide-ranging conversations about science, philosophy, culture, and ideas"
+    }
+  ],
+  "links": {
+    "website": "https://www.preposterousuniverse.com/",
+    "twitter": "https://twitter.com/seanmcarroll",
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

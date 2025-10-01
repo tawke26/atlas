@@ -1,0 +1,105 @@
+{
+  "id": "q001",
+  "slug": "social-media-loneliness",
+  "question": "Is social media making us more lonely or more connected?",
+  "hook": "We've never been more 'connected', yet loneliness is at an all-time high. What's really happening to human connection in the digital age?",
+  "difficulty": "starter",
+  "tags": ["technology", "society", "psychology", "connection"],
+  "perspectives": [
+    {
+      "thinkerId": "sherry-turkle",
+      "thinkerName": "Sherry Turkle",
+      "stance": "Technology promises connection but delivers isolation",
+      "summary": "Turkle argues that constant digital connection is creating a crisis of empathy and authentic relationships. We're 'alone together'—physically present but mentally elsewhere, substituting real conversation with mere connection.",
+      "excerpts": [
+        {
+          "type": "quote",
+          "title": "From 'Alone Together'",
+          "text": "We expect more from technology and less from each other. We create technology that will give us the illusion of companionship without the demands of friendship.",
+          "source": "Alone Together: Why We Expect More from Technology and Less from Each Other (2011)",
+          "context": "Turkle studied how people interact with social robots and social media, finding we're replacing depth with breadth in relationships."
+        },
+        {
+          "type": "talk",
+          "title": "Connected, but alone?",
+          "text": "Those little devices in our pockets are so psychologically powerful that they don't only change what we do, they change who we are. We've become accustomed to a new way of being alone together.",
+          "source": "TED Talk, 2012",
+          "url": "https://www.ted.com/talks/sherry_turkle_connected_but_alone",
+          "context": "In this widely-viewed talk, she explores how our devices are redefining human connection and intimacy."
+        }
+      ],
+      "learningPath": "attention-economy"
+    },
+    {
+      "thinkerId": "danah-boyd",
+      "thinkerName": "danah boyd",
+      "stance": "It's not the technology—it's how society structures teen life",
+      "summary": "boyd challenges the 'technology is isolating' narrative, arguing that teens use social media to maintain friendships because they're physically isolated by suburban sprawl, over-scheduling, and parental fears. The real problem isn't phones—it's that we've eliminated spaces for organic social interaction.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'It's Complicated'",
+          "text": "Teens aren't addicted to social media. They're addicted to each other. They're not allowed to hang out the way you and I did, so they've moved it online.",
+          "source": "It's Complicated: The Social Lives of Networked Teens (2014)",
+          "context": "boyd spent years researching how teenagers actually use social media, finding it's a lifeline, not a replacement for 'real' connection."
+        },
+        {
+          "type": "essay",
+          "title": "Why Youth Heart Social Network Sites",
+          "text": "Social media is where young people can gather to hang out just as they gather in parks and shopping malls. Restricting access won't solve the underlying social problems that make these spaces necessary.",
+          "source": "Youth, Identity, and Digital Media (2007)",
+          "context": "She argues we're blaming technology for deeper social issues about how we structure childhood and community."
+        }
+      ],
+      "learningPath": "digital-public-spaces"
+    },
+    {
+      "thinkerId": "cal-newport",
+      "thinkerName": "Cal Newport",
+      "stance": "Digital minimalism: solitude and real conversation are essential",
+      "summary": "Newport advocates for 'digital minimalism'—the idea that we should be highly selective about which technologies we adopt. He argues that social media platforms are deliberately designed to be addictive and fragment our attention, undermining both solitude (necessary for self-reflection) and deep conversation.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'Digital Minimalism'",
+          "text": "Humans are not wired to be constantly wired. Solitude is a crucial ingredient for a happy and meaningful life, yet our culture has become almost allergic to it.",
+          "source": "Digital Minimalism: Choosing a Focused Life in a Noisy World (2019)",
+          "context": "Newport studied how constant connectivity eliminates the psychological benefits of solitude and degrades conversation quality."
+        },
+        {
+          "type": "blog",
+          "title": "Social Media is Not a Technology",
+          "text": "Social media is best understood as a slot machine for your phone. It's engineered to be addictive, not useful. The companies behind these services have learned to exploit psychological vulnerabilities.",
+          "source": "Study Hacks Blog",
+          "context": "He argues that treating social media as a neutral tool misses how it's specifically designed to capture attention."
+        }
+      ],
+      "learningPath": "attention-economy"
+    },
+    {
+      "thinkerId": "ethan-zuckerman",
+      "thinkerName": "Ethan Zuckerman",
+      "stance": "The problem is corporate control, not digital connection itself",
+      "summary": "Zuckerman, who helped build early social web tools, argues the issue isn't online connection—it's that corporate platforms prioritize engagement over healthy discourse. We need to rebuild social infrastructure that serves users, not advertisers. The internet can foster genuine community, but not under surveillance capitalism.",
+      "excerpts": [
+        {
+          "type": "essay",
+          "title": "The Internet's Original Sin",
+          "text": "I'm sorry. I was one of the people who made the ad-supported internet. And I'm here to tell you: we screwed up. The ad model created incentives to track users, manipulate behavior, and prioritize engagement over everything else.",
+          "source": "The Atlantic (2014)",
+          "context": "A mea culpa from someone who helped build the early web, explaining how the advertising model corrupted online spaces."
+        },
+        {
+          "type": "book",
+          "title": "From 'Rewire'",
+          "text": "Digital tools can help us bridge differences and encounter new perspectives—but only if we build them with that intention. The current platforms are designed for profit, not human flourishing.",
+          "source": "Rewire: Digital Cosmopolitans in the Age of Connection (2013)",
+          "context": "He explores how technology could expand our worldview but often narrows it instead due to design choices."
+        }
+      ],
+      "learningPath": "platform-governance"
+    }
+  ],
+  "relatedQuestions": ["attention-economy", "digital-public-spaces", "platform-governance"]
+}
+

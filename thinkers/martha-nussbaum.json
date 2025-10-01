@@ -1,0 +1,73 @@
+{
+  "id": "martha-nussbaum",
+  "slug": "martha-nussbaum",
+  "name": "Martha Nussbaum",
+  "tagline": "Philosopher developing a capabilities approach to justice and human flourishing",
+  "bio": "Martha Nussbaum is a philosopher whose work spans ancient philosophy, ethics, political philosophy, feminism, and the philosophy of emotion. She's best known for developing the 'capabilities approach' with economist Amartya Sen—a framework for evaluating human development that focuses on what people are actually able to do and be, rather than just their wealth or happiness.\n\nHer scholarship combines rigorous classical training with engagement with contemporary social issues. She writes about topics ranging from justice and dignity to the role of emotions in public life, drawing on sources from Aristotle to contemporary psychology. Nussbaum argues for a cosmopolitan perspective that recognizes our common humanity while respecting difference.\n\nShe's won numerous awards including the Berggruen Prize for Philosophy and serves as a professor at the University of Chicago Law School. Her work bridges academic philosophy and practical policy, influencing international development measurements and constitutional law.",
+  "perspective": {
+    "stance": "Justice requires creating conditions for all people to develop their core human capabilities; this demands attention to both material conditions and social recognition",
+    "approach": "philosophical-ethical",
+    "expertise": [
+      "Ethics",
+      "Political Philosophy",
+      "Ancient Philosophy",
+      "Feminist Philosophy",
+      "Philosophy of Emotion",
+      "Law and Philosophy"
+    ]
+  },
+  "primaryDiscipline": "philosophy",
+  "topics": [
+    "capabilities-approach",
+    "human-development",
+    "justice",
+    "emotions",
+    "cosmopolitanism",
+    "dignity",
+    "animal-rights",
+    "education"
+  ],
+  "notableWork": [
+    {
+      "title": "Creating Capabilities: The Human Development Approach",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674072350",
+      "type": "book",
+      "description": "Accessible introduction to her capabilities approach to justice"
+    },
+    {
+      "title": "The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy",
+      "url": "https://www.cambridge.org/core/books/fragility-of-goodness/677C8C2F6A6E0EDFA92E2E8E2E8E2E8E",
+      "type": "book",
+      "description": "Landmark work examining vulnerability and the ethical life in ancient thought"
+    },
+    {
+      "title": "Political Emotions: Why Love Matters for Justice",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674503809",
+      "type": "book",
+      "description": "Analysis of how public emotions shape political culture and justice"
+    },
+    {
+      "title": "Not for Profit: Why Democracy Needs the Humanities",
+      "url": "https://press.princeton.edu/books/paperback/9780691140643/not-for-profit",
+      "type": "book",
+      "description": "Defense of humanities education as essential for democratic citizenship"
+    },
+    {
+      "title": "Upheavals of Thought: The Intelligence of Emotions",
+      "url": "https://www.cambridge.org/core/books/upheavals-of-thought/6E8E2E8E2E8E2E8E2E8E2E8E2E8E2E8E",
+      "type": "book",
+      "description": "Comprehensive philosophical account of emotions as forms of judgment"
+    }
+  ],
+  "links": {
+    "website": "https://philosophy.uchicago.edu/faculty/nussbaum",
+    "twitter": null,
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

@@ -1,0 +1,65 @@
+{
+  "id": "ta-nehisi-coates",
+  "slug": "ta-nehisi-coates",
+  "name": "Ta-Nehisi Coates",
+  "tagline": "Writer examining race, history, and American identity through personal and political lenses",
+  "bio": "Ta-Nehisi Coates is a writer whose essays on race, history, and American identity have shaped contemporary discourse. His work combines rigorous historical research with personal narrative, making abstract questions about systemic racism concrete and visceral. He writes with both analytical precision and emotional honesty.\n\nCoates rose to prominence through his essays in The Atlantic, particularly 'The Case for Reparations,' which reframed conversations about racial justice by connecting historical policy to contemporary inequality. His books, especially 'Between the World and Me,' written as a letter to his son, blend memoir with cultural criticism in ways that feel both intimate and universal.\n\nBeyond journalism, Coates has written acclaimed comic books (Black Panther) and fiction, always exploring themes of power, identity, and what it means to be Black in America. His work is unflinching about America's racial history while remaining deeply thoughtful about complexity and nuance.",
+  "perspective": {
+    "stance": "America's racial inequalities are not accidents but the result of specific policy choices; understanding this history is essential to addressing present injustice",
+    "approach": "historical-narrative",
+    "expertise": [
+      "African American History",
+      "Racial Justice",
+      "American History",
+      "Cultural Criticism",
+      "Narrative Journalism"
+    ]
+  },
+  "primaryDiscipline": "culture-media",
+  "topics": [
+    "race-and-racism",
+    "american-history",
+    "systemic-inequality",
+    "reparations",
+    "black-identity",
+    "cultural-criticism",
+    "narrative-writing"
+  ],
+  "notableWork": [
+    {
+      "title": "Between the World and Me",
+      "url": "https://www.penguinrandomhouse.com/books/220290/between-the-world-and-me-by-ta-nehisi-coates/",
+      "type": "book",
+      "description": "Letter to his son about being Black in America, winner of National Book Award"
+    },
+    {
+      "title": "The Case for Reparations",
+      "url": "https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/",
+      "type": "article",
+      "description": "Landmark essay connecting historical policy to contemporary racial wealth gap"
+    },
+    {
+      "title": "The Water Dancer",
+      "url": "https://www.penguinrandomhouse.com/books/537246/the-water-dancer-by-ta-nehisi-coates/",
+      "type": "book",
+      "description": "His debut novel about slavery and the Underground Railroad"
+    },
+    {
+      "title": "We Were Eight Years in Power",
+      "url": "https://www.penguinrandomhouse.com/books/550476/we-were-eight-years-in-power-by-ta-nehisi-coates/",
+      "type": "book",
+      "description": "Essays on the Obama era and what followed"
+    }
+  ],
+  "links": {
+    "website": "https://ta-nehisicoates.com/",
+    "twitter": "https://twitter.com/tanehisicoates",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

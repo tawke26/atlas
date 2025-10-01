@@ -1,0 +1,58 @@
+{
+  "id": "ayana-elizabeth-johnson",
+  "slug": "ayana-elizabeth-johnson",
+  "name": "Ayana Elizabeth Johnson",
+  "tagline": "Marine biologist and policy expert on ocean conservation and climate solutions",
+  "bio": "Ayana Elizabeth Johnson is a marine biologist, policy expert, and climate communicator who focuses on ocean-based climate solutions and marine conservation. She combines scientific expertise with policy work and public engagement, asking how we can protect oceans while they help us address climate change.\n\nJohnson's work spans research (coral reef ecology), policy (marine spatial planning), and communication (podcasts, writing, speaking). She co-edited 'All We Can Save,' an anthology of women climate leaders, and co-hosts the 'How to Save a Planet' podcast. Her approach emphasizes solutions, joy, and the interconnection of social and environmental justice.\n\nWhat makes Johnson distinctive is her integration of science, policy, and culture—she understands that climate action requires both technical solutions and narrative change, and that ocean health and human thriving are inseparable.",
+  "perspective": {
+    "stance": "Ocean-based solutions are critical to addressing climate change; we need science-informed policy that centers justice and community",
+    "approach": "interdisciplinary-solutions-focused",
+    "expertise": [
+      "Marine Biology",
+      "Climate Policy",
+      "Ocean Conservation",
+      "Environmental Justice",
+      "Science Communication"
+    ]
+  },
+  "primaryDiscipline": "climate-environment",
+  "topics": [
+    "ocean-conservation",
+    "climate-solutions",
+    "marine-biology",
+    "blue-carbon",
+    "environmental-justice",
+    "climate-policy"
+  ],
+  "notableWork": [
+    {
+      "title": "All We Can Save: Truth, Courage, and Solutions for the Climate Crisis",
+      "url": "https://www.allwecansave.earth/",
+      "type": "book",
+      "description": "Anthology of women leading on climate, co-edited with Katharine Wilkinson"
+    },
+    {
+      "title": "How to Save a Planet Podcast",
+      "url": "https://gimletmedia.com/shows/howtosaveaplanet",
+      "type": "podcast",
+      "description": "Solutions-focused climate podcast"
+    },
+    {
+      "title": "What If We Get This Right?",
+      "url": "https://www.ayanaelizabeth.com/",
+      "type": "book",
+      "description": "Her recent book on visions for a better future"
+    }
+  ],
+  "links": {
+    "website": "https://www.ayanaelizabeth.com/",
+    "twitter": "https://twitter.com/ayanaeliza",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

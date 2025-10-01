@@ -1,0 +1,65 @@
+{
+  "id": "kate-raworth",
+  "slug": "kate-raworth",
+  "name": "Kate Raworth",
+  "tagline": "Rethinking economics for a world within planetary boundaries",
+  "bio": "Kate Raworth is an economist who challenges the fundamental assumptions of traditional economic thinking. She's best known for developing the 'Doughnut Economics' model—a visual framework that places the economy within social foundations and ecological ceilings, arguing that thriving lies in the space between.\n\nHer work questions the obsession with GDP growth, asking instead what economy would look like if it were designed to meet everyone's needs within the means of the planet. She draws on ecological economics, complexity theory, and feminist economics to reimagine economic goals and measurements.\n\nRaworth teaches at Oxford and works with cities, businesses, and governments worldwide to apply doughnut thinking. Her approach is systemic rather than incremental—she's interested in fundamentally reframing how we think about economic success rather than tweaking existing models.",
+  "perspective": {
+    "stance": "Economics must operate within planetary boundaries while meeting human needs; endless growth is neither possible nor desirable",
+    "approach": "systems-thinking",
+    "expertise": [
+      "Economics",
+      "Ecological Economics",
+      "Development",
+      "Systems Thinking",
+      "Urban Planning"
+    ]
+  },
+  "primaryDiscipline": "economics-systems",
+  "topics": [
+    "ecological-economics",
+    "planetary-boundaries",
+    "post-growth",
+    "regenerative-economics",
+    "inequality",
+    "gdp-critique",
+    "circular-economy"
+  ],
+  "notableWork": [
+    {
+      "title": "Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist",
+      "url": "https://www.penguin.co.uk/books/294/294036/doughnut-economics/9781847941398.html",
+      "type": "book",
+      "description": "Her foundational work proposing a new economic paradigm for the Anthropocene"
+    },
+    {
+      "title": "A healthy economy should be designed to thrive, not grow",
+      "url": "https://www.ted.com/talks/kate_raworth_a_healthy_economy_should_be_designed_to_thrive_not_grow",
+      "type": "talk",
+      "description": "TED talk introducing the doughnut model to a broad audience"
+    },
+    {
+      "title": "Why it's time for Doughnut Economics",
+      "url": "https://www.weforum.org/stories/2020/01/change-economics-to-change-the-world/",
+      "type": "article",
+      "description": "Essay on reimagining economic goals for the 21st century"
+    },
+    {
+      "title": "Doughnut Economics Action Lab",
+      "url": "https://doughnuteconomics.org/",
+      "type": "project",
+      "description": "Platform sharing tools and stories for putting doughnut economics into practice"
+    }
+  ],
+  "links": {
+    "website": "https://www.kateraworth.com/",
+    "twitter": "https://twitter.com/KateRaworth",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

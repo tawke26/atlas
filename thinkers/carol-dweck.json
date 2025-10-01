@@ -1,0 +1,59 @@
+{
+  "id": "carol-dweck",
+  "slug": "carol-dweck",
+  "name": "Carol Dweck",
+  "tagline": "Psychologist studying mindsets, motivation, and human potential",
+  "bio": "Carol Dweck is a psychologist whose research on 'mindsets' has influenced how we think about learning, achievement, and personal development. Her core finding: people who believe abilities can be developed (growth mindset) behave differently and achieve more than those who see abilities as fixed (fixed mindset). This simple distinction has profound implications for education, parenting, and organizational culture.\n\nDweck's work is grounded in decades of careful experimental research, examining how beliefs about intelligence and talent affect motivation, resilience, and willingness to take on challenges. She's shown how praise, feedback, and cultural messages shape these mindsets, and how interventions can shift people toward growth orientation.\n\nWhile 'growth mindset' has become popular (sometimes oversimplified), Dweck continues nuanced research on when and how mindsets matter. Her work bridges basic psychological research and practical applications in education and beyond.",
+  "perspective": {
+    "stance": "Believing that abilities can be developed through effort leads to greater achievement and resilience than believing abilities are fixed traits",
+    "approach": "experimental-applied",
+    "expertise": [
+      "Motivation",
+      "Achievement",
+      "Learning",
+      "Personality Psychology",
+      "Educational Psychology"
+    ]
+  },
+  "primaryDiscipline": "psychology-mind",
+  "topics": [
+    "growth-mindset",
+    "motivation",
+    "learning",
+    "achievement",
+    "self-theories",
+    "resilience",
+    "education"
+  ],
+  "notableWork": [
+    {
+      "title": "Mindset: The New Psychology of Success",
+      "url": "https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/",
+      "type": "book",
+      "description": "Popularization of growth mindset research and its applications"
+    },
+    {
+      "title": "Self-Theories: Their Role in Motivation, Personality, and Development",
+      "url": "https://www.routledge.com/Self-theories-Their-Role-in-Motivation-Personality-and-Development/Dweck/p/book/9781138006409",
+      "type": "book",
+      "description": "Academic presentation of mindset theory"
+    },
+    {
+      "title": "Research on Mindsets and Achievement",
+      "url": "https://profiles.stanford.edu/carol-dweck",
+      "type": "article",
+      "description": "Extensive academic publications on motivation and learning"
+    }
+  ],
+  "links": {
+    "website": "https://profiles.stanford.edu/carol-dweck",
+    "twitter": null,
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

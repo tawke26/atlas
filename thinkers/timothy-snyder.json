@@ -1,0 +1,65 @@
+{
+  "id": "timothy-snyder",
+  "slug": "timothy-snyder",
+  "name": "Timothy Snyder",
+  "tagline": "Historian of tyranny, mass killing, and threats to freedom",
+  "bio": "Timothy Snyder is a historian specializing in Central and Eastern European history, particularly the Holocaust, Stalinist terror, and totalitarianism. His work examines the Bloodlands—territories between Nazi Germany and Soviet Russia where millions were murdered—and draws lessons about how tyranny emerges and how freedom is lost.\n\nSnyder has become prominent for connecting historical analysis to contemporary threats to democracy. His book 'On Tyranny' distilled lessons from 20th century totalitarianism into practical guidelines for citizens. He's also written extensively about Russia's war on Ukraine, drawing on deep historical knowledge of the region.\n\nHis work combines meticulous historical research with urgent engagement with present dangers. He represents history as warning and guide—not just understanding the past, but learning from it to protect freedom today.",
+  "perspective": {
+    "stance": "History shows how quickly democracies can collapse into tyranny; vigilance and civic courage are essential to preserving freedom",
+    "approach": "historical-prescriptive",
+    "expertise": [
+      "Eastern European History",
+      "Holocaust Studies",
+      "Totalitarianism",
+      "Russian History",
+      "Ukrainian History"
+    ]
+  },
+  "primaryDiscipline": "history-civilization",
+  "topics": [
+    "tyranny",
+    "totalitarianism",
+    "holocaust",
+    "eastern-europe",
+    "russia-ukraine",
+    "mass-violence",
+    "freedom"
+  ],
+  "notableWork": [
+    {
+      "title": "On Tyranny: Twenty Lessons from the Twentieth Century",
+      "url": "https://timothysnyder.org/books/on-tyranny-tr",
+      "type": "book",
+      "description": "Concise guide to resisting authoritarianism based on historical lessons"
+    },
+    {
+      "title": "Bloodlands: Europe Between Hitler and Stalin",
+      "url": "https://timothysnyder.org/books/bloodlands-bl",
+      "type": "book",
+      "description": "History of mass killing in Eastern Europe 1933-1945"
+    },
+    {
+      "title": "The Road to Unfreedom: Russia, Europe, America",
+      "url": "https://timothysnyder.org/books/the-road-to-unfreedom-rtu",
+      "type": "book",
+      "description": "Analysis of how Russia undermines democracy and truth"
+    },
+    {
+      "title": "On Freedom",
+      "url": "https://timothysnyder.org/",
+      "type": "book",
+      "description": "Recent work on meaning and defense of freedom"
+    }
+  ],
+  "links": {
+    "website": "https://timothysnyder.org/",
+    "twitter": "https://twitter.com/TimothyDSnyder",
+    "substack": "https://snyder.substack.com/"
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

@@ -1,0 +1,58 @@
+{
+  "id": "michael-mann",
+  "slug": "michael-mann",
+  "name": "Michael E. Mann",
+  "tagline": "Climate scientist defending climate science against denial and misinformation",
+  "bio": "Michael E. Mann is a climate scientist best known for the 'hockey stick' graph showing dramatic recent warming, and for his public defense of climate science against organized denial campaigns. His research reconstructs past climates to understand long-term patterns and project future changes.\n\nMann has become a prominent voice not just for climate science but against the deliberate spread of climate misinformation. He's documented how fossil fuel interests have funded doubt campaigns and attacked scientists. This has made him a target, but also given him unique insight into the politics of science denial.\n\nHis work combines technical climatology with public engagement and advocacy. Mann argues scientists have a responsibility to speak clearly about what evidence shows and to push back against bad-faith attacks on science itself.",
+  "perspective": {
+    "stance": "Climate change is real, human-caused, and urgent; scientists must actively defend evidence against organized denial",
+    "approach": "scientific-advocacy",
+    "expertise": [
+      "Climatology",
+      "Paleoclimatology",
+      "Climate Modeling",
+      "Science Communication",
+      "Climate Politics"
+    ]
+  },
+  "primaryDiscipline": "climate-environment",
+  "topics": [
+    "climate-science",
+    "climate-denial",
+    "paleoclimatology",
+    "global-warming",
+    "climate-politics",
+    "science-advocacy"
+  ],
+  "notableWork": [
+    {
+      "title": "The New Climate War",
+      "url": "https://www.publicaffairsbooks.com/titles/michael-e-mann/the-new-climate-war/9781541758223/",
+      "type": "book",
+      "description": "Analysis of modern climate denial tactics and how to fight them"
+    },
+    {
+      "title": "The Hockey Stick and the Climate Wars",
+      "url": "https://cup.columbia.edu/book/the-hockey-stick-and-the-climate-wars/9780231152556",
+      "type": "book",
+      "description": "Memoir of developing the hockey stick graph and facing attacks"
+    },
+    {
+      "title": "Climate Research",
+      "url": "https://michaelmann.net/",
+      "type": "article",
+      "description": "Extensive publications on climate science"
+    }
+  ],
+  "links": {
+    "website": "https://michaelmann.net/",
+    "twitter": "https://twitter.com/MichaelEMann",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

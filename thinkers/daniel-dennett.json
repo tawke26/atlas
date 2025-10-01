@@ -1,0 +1,65 @@
+{
+  "id": "daniel-dennett",
+  "slug": "daniel-dennett",
+  "name": "Daniel Dennett",
+  "tagline": "Philosopher exploring consciousness, evolution, and free will",
+  "bio": "Daniel Dennett is a philosopher and cognitive scientist who has spent his career making the hardest questions about mind and consciousness accessible to broader audiences. He's known for his work on consciousness, free will, evolution, and the nature of belief, combining rigorous philosophical analysis with insights from biology and AI.\n\nHis approach is materialist and evolutionary—he argues that consciousness and meaning emerge from physical processes, and that understanding evolution is key to understanding mind. Dennett is skilled at using thought experiments and analogies to make abstract concepts concrete, though his views on consciousness and free will are sometimes controversial.\n\nHe's written extensively about religion, artificial intelligence, and the philosophy of mind, always aiming to demystify complex topics without oversimplifying them. His work bridges philosophy, cognitive science, and evolutionary biology.",
+  "perspective": {
+    "stance": "Consciousness and free will can be explained through naturalistic, evolutionary processes without recourse to mysterious non-physical properties",
+    "approach": "empirical-philosophical",
+    "expertise": [
+      "Philosophy of Mind",
+      "Consciousness Studies",
+      "Evolutionary Biology",
+      "Cognitive Science",
+      "Free Will"
+    ]
+  },
+  "primaryDiscipline": "philosophy",
+  "topics": [
+    "consciousness",
+    "free-will",
+    "evolution",
+    "cognitive-science",
+    "artificial-intelligence",
+    "religion",
+    "materialism"
+  ],
+  "notableWork": [
+    {
+      "title": "Consciousness Explained",
+      "url": "https://en.wikipedia.org/wiki/Consciousness_Explained",
+      "type": "book",
+      "description": "His comprehensive theory of consciousness as emerging from multiple parallel processes"
+    },
+    {
+      "title": "Darwin's Dangerous Idea",
+      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea",
+      "type": "book",
+      "description": "Exploration of evolution as a universal algorithm with profound implications"
+    },
+    {
+      "title": "Freedom Evolves",
+      "url": "https://en.wikipedia.org/wiki/Freedom_Evolves",
+      "type": "book",
+      "description": "Argument for a compatibilist view of free will grounded in evolution"
+    },
+    {
+      "title": "Breaking the Spell: Religion as a Natural Phenomenon",
+      "url": "https://en.wikipedia.org/wiki/Breaking_the_Spell:_Religion_as_a_Natural_Phenomenon",
+      "type": "book",
+      "description": "Scientific and philosophical examination of religious belief"
+    }
+  ],
+  "links": {
+    "website": "https://ase.tufts.edu/cogstud/dennett/",
+    "twitter": null,
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

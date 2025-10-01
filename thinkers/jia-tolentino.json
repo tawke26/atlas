@@ -1,0 +1,53 @@
+{
+  "id": "jia-tolentino",
+  "slug": "jia-tolentino",
+  "name": "Jia Tolentino",
+  "tagline": "Essayist examining internet culture, feminism, and contemporary life",
+  "bio": "Jia Tolentino is a staff writer at The New Yorker whose essays dissect internet culture, feminism, religion, and what it means to be young in late capitalism. Her writing combines personal narrative with cultural criticism, moving fluidly between memoir and analysis.\n\nTolentino grew up in a megachurch, spent time in reality TV, and came of age online—experiences that inform her sharp eye for how culture shapes selfhood. She examines the performance of identity online, the economics of attention, the contradictions of modern feminism, and how we navigate systems designed to extract value from us.\n\nHer essay collection 'Trick Mirror' became a cultural phenomenon for capturing something essential about millennial and Gen Z experience—the feeling of being trapped in systems we can see but can't escape, performing versions of ourselves we don't quite believe in.",
+  "perspective": {
+    "stance": "We live in systems (capitalism, internet, patriarchy) that shape our desires and identities in ways we're only beginning to understand",
+    "approach": "essayistic-critical",
+    "expertise": [
+      "Cultural Criticism",
+      "Internet Culture",
+      "Feminism",
+      "Essay Writing",
+      "Millennial Experience"
+    ]
+  },
+  "primaryDiscipline": "culture-media",
+  "topics": [
+    "internet-culture",
+    "feminism",
+    "identity",
+    "performativity",
+    "late-capitalism",
+    "millennial-life",
+    "cultural-criticism"
+  ],
+  "notableWork": [
+    {
+      "title": "Trick Mirror: Reflections on Self-Delusion",
+      "url": "https://www.penguinrandomhouse.com/books/602706/trick-mirror-by-jia-tolentino/",
+      "type": "book",
+      "description": "Essays on internet culture, identity, and contemporary life"
+    },
+    {
+      "title": "The New Yorker Essays",
+      "url": "https://www.newyorker.com/contributors/jia-tolentino",
+      "type": "article",
+      "description": "Wide-ranging cultural criticism and reported essays"
+    }
+  ],
+  "links": {
+    "website": "https://www.newyorker.com/contributors/jia-tolentino",
+    "twitter": "https://twitter.com/jiatolentino",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

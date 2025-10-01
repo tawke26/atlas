@@ -1,0 +1,59 @@
+{
+  "id": "anne-applebaum",
+  "slug": "anne-applebaum",
+  "name": "Anne Applebaum",
+  "tagline": "Historian and journalist documenting authoritarianism and democratic decline",
+  "bio": "Anne Applebaum is a historian and journalist who has spent decades studying authoritarianism, particularly in Eastern Europe and Russia. Her work examines how democracies slide into authoritarianism, how autocrats consolidate power, and why people collaborate with authoritarian regimes.\n\nApplebaum combines historical research with contemporary journalism, drawing parallels between past authoritarian movements and present threats to democracy. She's documented the Holodomor famine in Ukraine, tracked the rise of modern autocracy, and analyzed the appeal of illiberal politics in formerly democratic societies.\n\nHer writing is historically grounded but urgently contemporary, showing how understanding the past helps us recognize and resist authoritarianism today. She writes for The Atlantic and won the Pulitzer Prize for 'Gulag.'",
+  "perspective": {
+    "stance": "Democratic institutions are fragile and require active defense; authoritarianism appeals across political spectrums and must be understood to be resisted",
+    "approach": "historical-journalistic",
+    "expertise": [
+      "Authoritarianism",
+      "Eastern European History",
+      "Soviet History",
+      "Democracy",
+      "Political History"
+    ]
+  },
+  "primaryDiscipline": "politics-power",
+  "topics": [
+    "authoritarianism",
+    "democracy-decline",
+    "soviet-history",
+    "eastern-europe",
+    "totalitarianism",
+    "political-collaboration",
+    "illiberalism"
+  ],
+  "notableWork": [
+    {
+      "title": "Twilight of Democracy: The Seductive Lure of Authoritarianism",
+      "url": "https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/",
+      "type": "book",
+      "description": "Analysis of why people embrace authoritarianism in democratic societies"
+    },
+    {
+      "title": "Red Famine: Stalin's War on Ukraine",
+      "url": "https://www.penguinrandomhouse.com/books/236713/red-famine-by-anne-applebaum/",
+      "type": "book",
+      "description": "History of the Holodomor and Stalin's policies in Ukraine"
+    },
+    {
+      "title": "Gulag: A History",
+      "url": "https://www.penguinrandomhouse.com/books/91766/gulag-by-anne-applebaum/",
+      "type": "book",
+      "description": "Comprehensive history of Soviet forced labor camps, Pulitzer Prize winner"
+    }
+  ],
+  "links": {
+    "website": "https://www.anneapplebaum.com/",
+    "twitter": "https://twitter.com/anneapplebaum",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

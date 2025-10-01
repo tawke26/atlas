@@ -1,0 +1,65 @@
+{
+  "id": "yuval-noah-harari",
+  "slug": "yuval-noah-harari",
+  "name": "Yuval Noah Harari",
+  "tagline": "Historian examining humanity's past and future through big-picture narratives",
+  "bio": "Yuval Noah Harari is a historian who takes the long view—really long. His work examines human history from the cognitive revolution 70,000 years ago to potential futures with AI and bioengineering. He's become one of the most widely-read contemporary historians by asking big questions about what makes us human and where we're headed.\n\nHarari's approach is to identify key revolutions (cognitive, agricultural, scientific) that fundamentally reshaped human society, then trace their consequences. He writes accessibly about complex historical processes, though some historians critique his broad generalizations. His focus has expanded from historical analysis to contemporary challenges like technology, meaning, and political systems.\n\nWhat makes Harari distinctive is his willingness to connect ancient history with pressing contemporary questions. He's equally comfortable discussing Mesopotamian grain stores and modern data algorithms, always asking: what does this mean for human flourishing?",
+  "perspective": {
+    "stance": "Human history is shaped by collective fictions (religions, nations, corporations) that enable cooperation at scale; understanding these patterns helps us navigate an uncertain future",
+    "approach": "macro-historical",
+    "expertise": [
+      "World History",
+      "Medieval History",
+      "Military History",
+      "Future Studies",
+      "Technology & Society"
+    ]
+  },
+  "primaryDiscipline": "history-civilization",
+  "topics": [
+    "human-evolution",
+    "civilizational-history",
+    "future-of-humanity",
+    "technology-impact",
+    "meaning-and-narrative",
+    "collective-fictions",
+    "agricultural-revolution"
+  ],
+  "notableWork": [
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "url": "https://www.ynharari.com/book/sapiens-2/",
+      "type": "book",
+      "description": "Sweeping narrative of human history from stone age to modernity"
+    },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "url": "https://www.ynharari.com/book/homo-deus/",
+      "type": "book",
+      "description": "Exploration of possible human futures as we transcend biological limits"
+    },
+    {
+      "title": "21 Lessons for the 21st Century",
+      "url": "https://www.ynharari.com/book/21-lessons-book/",
+      "type": "book",
+      "description": "Essays on contemporary challenges from technology to terrorism"
+    },
+    {
+      "title": "Nexus: A Brief History of Information Networks",
+      "url": "https://www.ynharari.com/book/nexus/",
+      "type": "book",
+      "description": "Recent work examining how information networks shape power and truth"
+    }
+  ],
+  "links": {
+    "website": "https://www.ynharari.com/",
+    "twitter": "https://twitter.com/harari_yuval",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

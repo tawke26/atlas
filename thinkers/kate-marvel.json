@@ -1,0 +1,50 @@
+﻿{
+  "id": "kate-marvel",
+  "slug": "kate-marvel",
+  "name": "Kate Marvel",
+  "tagline": "Climate scientist communicating the science and urgency of climate change",
+  "bio": "Kate Marvel is a climate scientist at NASA and Columbia University who studies how clouds affect climate sensitivity and how human activity is changing Earth's climate system. She's become known not just for her scientific work but for her ability to communicate climate science clearly and compellingly to broad audiences.\n\nMarvel combines rigorous climate modeling with accessible science communication. She writes for Scientific American, appears in documentaries, and tweets about both climate science and the experience of being a scientist. Her approach acknowledges uncertainty while being clear about what we know and what it means.\n\nWhat makes Marvel effective is her combination of scientific precision and human accessibility—she discusses climate science without either minimizing the stakes or succumbing to doom. She represents a generation of climate scientists who see communication as part of their responsibility.",
+  "perspective": {
+    "stance": "The science of climate change is clear; we must act with urgency while acknowledging complexity and uncertainty",
+    "approach": "scientific-communicative",
+    "expertise": [
+      "Climate Science",
+      "Climate Modeling",
+      "Atmospheric Physics",
+      "Science Communication"
+    ]
+  },
+  "primaryDiscipline": "climate-environment",
+  "topics": [
+    "climate-science",
+    "global-warming",
+    "climate-modeling",
+    "clouds-climate",
+    "science-communication",
+    "climate-urgency"
+  ],
+  "notableWork": [
+    {
+      "title": "Scientific American Columns",
+      "url": "https://www.scientificamerican.com/author/kate-marvel/",
+      "type": "article",
+      "description": "Regular writing on climate science for general audiences"
+    },
+    {
+      "title": "Climate Research",
+      "url": "https://www.giss.nasa.gov/staff/kmarvel.html",
+      "type": "article",
+      "description": "Technical publications on climate sensitivity and cloud feedbacks"
+    }
+  ],
+  "links": {
+    "website": "https://www.giss.nasa.gov/staff/kmarvel.html",
+    "twitter": "https://twitter.com/DrKateMarvel",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}

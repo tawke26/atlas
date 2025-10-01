@@ -1,0 +1,59 @@
+{
+  "id": "pankaj-mishra",
+  "slug": "pankaj-mishra",
+  "name": "Pankaj Mishra",
+  "tagline": "Essayist examining modernity, globalization, and ressentiment",
+  "bio": "Pankaj Mishra is an Indian essayist and novelist who writes about globalization, modernity, and the political and psychological costs of rapid change. His work examines how the promise of Western modernity has produced crisis, resentment, and violence across the globe, particularly in Asia and the developing world.\n\nMishra draws on deep reading in literature, history, and philosophy to analyze contemporary politics. He traces connections between 19th-century European reactions to modernity and 21st-century populism and extremism worldwide, showing how ressentiment—frustrated desire for recognition and dignity—drives political upheaval.\n\nHis writing is intellectually ambitious and deliberately unsettling, challenging Western-centric narratives about progress, development, and civilization. He represents a non-Western perspective on global modernity that centers the costs and contradictions of development.",
+  "perspective": {
+    "stance": "Western modernity has produced global crisis and ressentiment; understanding today's upheavals requires grappling with modernity's broken promises",
+    "approach": "historical-literary",
+    "expertise": [
+      "Global History",
+      "Postcolonial Studies",
+      "Political Theory",
+      "Asian History",
+      "Literary Criticism"
+    ]
+  },
+  "primaryDiscipline": "culture-media",
+  "topics": [
+    "globalization",
+    "modernity",
+    "ressentiment",
+    "postcolonialism",
+    "asian-politics",
+    "nationalism",
+    "intellectual-history"
+  ],
+  "notableWork": [
+    {
+      "title": "Age of Anger: A History of the Present",
+      "url": "https://us.macmillan.com/books/9781250162977/ageofanger",
+      "type": "book",
+      "description": "Analysis of global rage through lens of modernity's disappointed promises"
+    },
+    {
+      "title": "From the Ruins of Empire: The Intellectuals Who Remade Asia",
+      "url": "https://us.macmillan.com/books/9781250037718/fromtheruinsofempire",
+      "type": "book",
+      "description": "History of Asian thinkers responding to Western imperialism"
+    },
+    {
+      "title": "Bland Fanatics: Liberals, Race and Empire",
+      "url": "https://www.versobooks.com/books/3531-bland-fanatics",
+      "type": "book",
+      "description": "Critique of liberal imperialism and Western supremacy"
+    }
+  ],
+  "links": {
+    "website": "https://www.pankajmishra.com/",
+    "twitter": "https://twitter.com/MishraPankaj",
+    "substack": null
+  },
+  "complexity": "advanced",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

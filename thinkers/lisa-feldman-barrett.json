@@ -1,0 +1,59 @@
+{
+  "id": "lisa-feldman-barrett",
+  "slug": "lisa-feldman-barrett",
+  "name": "Lisa Feldman Barrett",
+  "tagline": "Neuroscientist revolutionizing our understanding of emotions",
+  "bio": "Lisa Feldman Barrett is a neuroscientist who has fundamentally challenged how we think about emotions. Her theory of constructed emotion argues that emotions aren't universal, hardwired responses but are constructed by the brain based on context, culture, and past experience. This challenges decades of emotion research and has implications for everything from mental health treatment to AI development.\n\nBarrett's work combines neuroscience, psychology, and philosophy, showing how the brain creates emotions through prediction and categorization rather than simply reacting to the world. She uses both rigorous experimental methods and conceptual analysis to build her case, engaging seriously with critics while advancing bold claims.\n\nWhat makes her approach distinctive is the integration of multiple levels of analysis—from neurons to culture—and willingness to revise fundamental assumptions. Her work shows how scientific understanding of mind requires rethinking folk concepts we take for granted.",
+  "perspective": {
+    "stance": "Emotions are not universal, biological reflexes but are constructed by brains making predictions based on concepts learned through culture and experience",
+    "approach": "neuroscientific-constructivist",
+    "expertise": [
+      "Neuroscience",
+      "Emotion",
+      "Affective Science",
+      "Psychology",
+      "Philosophy of Mind"
+    ]
+  },
+  "primaryDiscipline": "psychology-mind",
+  "topics": [
+    "emotion",
+    "neuroscience",
+    "constructed-emotion",
+    "predictive-brain",
+    "affect",
+    "mind-body",
+    "cultural-psychology"
+  ],
+  "notableWork": [
+    {
+      "title": "How Emotions Are Made: The Secret Life of the Brain",
+      "url": "https://lisafeldmanbarrett.com/books/how-emotions-are-made/",
+      "type": "book",
+      "description": "Accessible presentation of her theory of constructed emotion"
+    },
+    {
+      "title": "Seven and a Half Lessons About the Brain",
+      "url": "https://lisafeldmanbarrett.com/books/seven-and-a-half-lessons-about-the-brain/",
+      "type": "book",
+      "description": "Short, engaging introduction to how brains work"
+    },
+    {
+      "title": "Scientific Papers",
+      "url": "https://lisafeldmanbarrett.com/publications/",
+      "type": "article",
+      "description": "Extensive research on emotion, affect, and brain function"
+    }
+  ],
+  "links": {
+    "website": "https://lisafeldmanbarrett.com/",
+    "twitter": "https://twitter.com/LFeldmanBarrett",
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

@@ -1,0 +1,59 @@
+{
+  "id": "jill-lepore",
+  "slug": "jill-lepore",
+  "name": "Jill Lepore",
+  "tagline": "Historian making American history accessible while interrogating national myths",
+  "bio": "Jill Lepore is a historian at Harvard who writes about American history for both academic and popular audiences. She's a staff writer at The New Yorker, where her essays connect historical analysis to contemporary questions about democracy, technology, truth, and nationhood.\n\nLepore's work challenges triumphalist narratives of American exceptionalism while taking seriously the ideals America claims to represent. She examines how technology shapes democracy, how truth and evidence function in public life, and what American history actually tells us about the nation's character and possibilities.\n\nHer writing is elegant and accessible, bringing archival research to life through vivid storytelling. She represents public history done seriously—making the past relevant without distorting it to serve present purposes.",
+  "perspective": {
+    "stance": "American history is neither as heroic as myths suggest nor as simple as either celebration or condemnation implies; honest reckoning requires complexity",
+    "approach": "narrative-analytical",
+    "expertise": [
+      "American History",
+      "Political History",
+      "History of Technology",
+      "Democracy",
+      "Public History"
+    ]
+  },
+  "primaryDiscipline": "history-civilization",
+  "topics": [
+    "american-history",
+    "democracy",
+    "technology-history",
+    "political-history",
+    "truth",
+    "nationalism",
+    "historical-method"
+  ],
+  "notableWork": [
+    {
+      "title": "These Truths: A History of the United States",
+      "url": "https://wwnorton.com/books/9780393357424",
+      "type": "book",
+      "description": "Single-volume American history from founding to Trump era"
+    },
+    {
+      "title": "If Then: How the Simulmatics Corporation Invented the Future",
+      "url": "https://wwnorton.com/books/9781631497056",
+      "type": "book",
+      "description": "History of early data science and prediction"
+    },
+    {
+      "title": "The New Yorker Essays",
+      "url": "https://www.newyorker.com/contributors/jill-lepore",
+      "type": "article",
+      "description": "Regular essays connecting history to current events"
+    }
+  ],
+  "links": {
+    "website": "https://history.fas.harvard.edu/people/jill-lepore",
+    "twitter": "https://twitter.com/jlepore",
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

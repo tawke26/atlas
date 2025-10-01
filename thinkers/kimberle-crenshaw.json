@@ -1,0 +1,59 @@
+{
+  "id": "kimberle-crenshaw",
+  "slug": "kimberle-crenshaw",
+  "name": "Kimberlé Crenshaw",
+  "tagline": "Legal scholar who developed intersectionality and critical race theory",
+  "bio": "Kimberlé Crenshaw is a legal scholar who coined the term 'intersectionality' to describe how different forms of discrimination overlap and compound—how being both Black and a woman creates unique experiences not captured by analyzing race or gender separately. This concept has become central to understanding structural inequality.\n\nCrenshaw's work in critical race theory examines how law and legal systems perpetuate racial inequality even when appearing neutral. She combines rigorous legal analysis with attention to lived experience, showing how formal equality can mask substantive injustice.\n\nBeyond academic work, she founded the African American Policy Forum and organizes around criminal justice and civil rights. Her work bridges theory and activism, using legal scholarship to inform social movements.",
+  "perspective": {
+    "stance": "Systems of oppression intersect in ways that create unique experiences; understanding inequality requires analyzing how race, gender, class, and other categories interact",
+    "approach": "legal-theoretical",
+    "expertise": [
+      "Critical Race Theory",
+      "Intersectionality",
+      "Civil Rights Law",
+      "Gender Studies",
+      "Constitutional Law"
+    ]
+  },
+  "primaryDiscipline": "justice-rights",
+  "topics": [
+    "intersectionality",
+    "critical-race-theory",
+    "civil-rights",
+    "gender-race",
+    "structural-inequality",
+    "legal-theory",
+    "social-justice"
+  ],
+  "notableWork": [
+    {
+      "title": "On Intersectionality: Essential Writings",
+      "url": "https://thenewpress.com/books/intersectionality",
+      "type": "book",
+      "description": "Collection of foundational writings on intersectionality"
+    },
+    {
+      "title": "Demarginalizing the Intersection of Race and Sex",
+      "url": "https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8/",
+      "type": "article",
+      "description": "Landmark paper introducing intersectionality concept"
+    },
+    {
+      "title": "African American Policy Forum",
+      "url": "https://www.aapf.org/",
+      "type": "project",
+      "description": "Organization connecting academics, activists, and policymakers"
+    }
+  ],
+  "links": {
+    "website": "https://www.law.columbia.edu/faculty/kimberle-w-crenshaw",
+    "twitter": "https://twitter.com/sandylocks",
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

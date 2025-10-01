@@ -1,0 +1,65 @@
+{
+  "id": "bryan-stevenson",
+  "slug": "bryan-stevenson",
+  "name": "Bryan Stevenson",
+  "tagline": "Lawyer and advocate confronting mass incarceration and the death penalty",
+  "bio": "Bryan Stevenson is a lawyer who has dedicated his life to defending the poor, the incarcerated, and the condemned. As founder of the Equal Justice Initiative, he's represented hundreds of people on death row and challenged racial bias in the criminal justice system. His work is both intensely practical (winning cases, freeing innocent people) and deeply moral (questioning the fundamental justice of our legal system).\n\nStevenson's approach combines rigorous legal advocacy with historical truth-telling. He understands that mass incarceration isn't accidental—it's the latest chapter in a longer story of racial control in America. EJI has created museums and memorials that force confrontation with this history, while continuing to fight individual cases in court.\n\nHe speaks and writes with moral clarity without self-righteousness, grounded in direct experience with people the system has failed. His memoir 'Just Mercy' became a bestseller and film, bringing wider attention to criminal justice reform. Stevenson represents advocacy that's both pragmatic and prophetic.",
+  "perspective": {
+    "stance": "The death penalty and mass incarceration are morally wrong and racially biased; justice requires both reforming the system and reckoning with history",
+    "approach": "legal-advocacy",
+    "expertise": [
+      "Criminal Justice",
+      "Death Penalty",
+      "Racial Justice",
+      "Constitutional Law",
+      "Civil Rights"
+    ]
+  },
+  "primaryDiscipline": "justice-rights",
+  "topics": [
+    "mass-incarceration",
+    "death-penalty",
+    "racial-justice",
+    "criminal-justice-reform",
+    "wrongful-conviction",
+    "legal-advocacy",
+    "civil-rights"
+  ],
+  "notableWork": [
+    {
+      "title": "Just Mercy: A Story of Justice and Redemption",
+      "url": "https://justmercy.eji.org/",
+      "type": "book",
+      "description": "Memoir of his work defending the wrongly condemned and confronting injustice"
+    },
+    {
+      "title": "Equal Justice Initiative",
+      "url": "https://eji.org/",
+      "type": "project",
+      "description": "Organization providing legal representation and advocacy for criminal justice reform"
+    },
+    {
+      "title": "The Legacy Museum and National Memorial for Peace and Justice",
+      "url": "https://museumandmemorial.eji.org/",
+      "type": "project",
+      "description": "Museums in Montgomery, Alabama documenting history of slavery, lynching, and mass incarceration"
+    },
+    {
+      "title": "TED Talk: We Need to Talk About an Injustice",
+      "url": "https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice",
+      "type": "talk",
+      "description": "Powerful talk on mass incarceration and the need for truth-telling"
+    }
+  ],
+  "links": {
+    "website": "https://eji.org/bryan-stevenson/",
+    "twitter": null,
+    "substack": null
+  },
+  "complexity": "accessible",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": true,
+  "isStarter": true
+}
+

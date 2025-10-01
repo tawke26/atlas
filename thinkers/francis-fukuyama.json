@@ -1,0 +1,59 @@
+{
+  "id": "francis-fukuyama",
+  "slug": "francis-fukuyama",
+  "name": "Francis Fukuyama",
+  "tagline": "Political economist examining democracy, development, and political order",
+  "bio": "Francis Fukuyama is a political economist known for his controversial 'end of history' thesis—arguing that liberal democracy represents the endpoint of ideological evolution. While this claim has been debated and refined, Fukuyama's broader work examines what makes political systems succeed or fail, how institutions develop, and what threats democracy faces.\n\nHis recent work focuses on identity politics, the decay of liberal institutions, and the challenge of building effective states. He examines both why some countries develop strong democratic institutions and why others don't, drawing on history, economics, and political theory.\n\nFukuyama's thinking has evolved significantly since 'End of History,' acknowledging challenges to liberal democracy while maintaining that functional institutions and rule of law remain essential for human flourishing.",
+  "perspective": {
+    "stance": "Liberal democratic institutions remain humanity's best political achievement, but require constant renewal and face real threats from dysfunction and alternative models",
+    "approach": "institutional-comparative",
+    "expertise": [
+      "Political Development",
+      "State Building",
+      "Democracy",
+      "Identity Politics",
+      "International Relations"
+    ]
+  },
+  "primaryDiscipline": "politics-power",
+  "topics": [
+    "political-development",
+    "democracy",
+    "state-capacity",
+    "identity-politics",
+    "institutional-decay",
+    "political-order",
+    "liberalism"
+  ],
+  "notableWork": [
+    {
+      "title": "The End of History and the Last Man",
+      "url": "https://www.simonandschuster.com/books/The-End-of-History-and-the-Last-Man/Francis-Fukuyama/9780743284554",
+      "type": "book",
+      "description": "Controversial thesis on liberal democracy as ideological endpoint"
+    },
+    {
+      "title": "Political Order and Political Decay",
+      "url": "https://us.macmillan.com/books/9780374227357/politicalorderandpoliticaldecay",
+      "type": "book",
+      "description": "Two-volume study of how political institutions develop and deteriorate"
+    },
+    {
+      "title": "Identity: The Demand for Dignity and the Politics of Resentment",
+      "url": "https://us.macmillan.com/books/9780374129293/identity",
+      "type": "book",
+      "description": "Analysis of identity politics across the political spectrum"
+    }
+  ],
+  "links": {
+    "website": "https://fsi.stanford.edu/people/francis-fukuyama",
+    "twitter": "https://twitter.com/FukuyamaFrancis",
+    "substack": null
+  },
+  "complexity": "moderate",
+  "controversiality": "moderate",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+

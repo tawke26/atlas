@@ -1,0 +1,59 @@
+{
+  "id": "branko-milanovic",
+  "slug": "branko-milanovic",
+  "name": "Branko Milanović",
+  "tagline": "Economist analyzing global inequality and capitalism's evolution",
+  "bio": "Branko Milanović is an economist who has spent his career measuring and analyzing inequality—both within and between countries. His work provides empirical grounding for debates about globalization, showing who wins and loses as capital and labor move across borders. He's known for creating the 'elephant graph' showing how different income groups have fared under globalization.\n\nMilanović's approach is rigorously empirical while remaining historically informed. He examines long-term inequality patterns, comparing different forms of capitalism (liberal meritocratic vs political capitalism), and asks how economic systems shape and are shaped by political power. His analysis avoids both market fundamentalism and romantic anti-capitalism.\n\nWhat makes Milanović valuable is his willingness to follow data wherever it leads, even when conclusions are politically uncomfortable. He writes accessibly about technical economic research, making inequality debates less ideological and more evidence-based.",
+  "perspective": {
+    "stance": "Inequality patterns reflect both market forces and political choices; understanding these dynamics requires historical perspective and cross-national comparison",
+    "approach": "empirical-historical",
+    "expertise": [
+      "Inequality",
+      "Global Economics",
+      "Comparative Capitalism",
+      "Economic History",
+      "Income Distribution"
+    ]
+  },
+  "primaryDiscipline": "economics-systems",
+  "topics": [
+    "global-inequality",
+    "capitalism-varieties",
+    "globalization",
+    "income-distribution",
+    "economic-history",
+    "meritocracy",
+    "political-economy"
+  ],
+  "notableWork": [
+    {
+      "title": "Global Inequality: A New Approach for the Age of Globalization",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674984638",
+      "type": "book",
+      "description": "Analysis of inequality within and between nations in globalized economy"
+    },
+    {
+      "title": "Capitalism, Alone: The Future of the System That Rules the World",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674987593",
+      "type": "book",
+      "description": "Comparison of liberal meritocratic and political capitalism"
+    },
+    {
+      "title": "The Haves and the Have-Nots",
+      "url": "https://www.basicbooks.com/titles/branko-milanovic/the-haves-and-the-have-nots/9780465031412/",
+      "type": "book",
+      "description": "Historical perspectives on inequality across time and place"
+    }
+  ],
+  "links": {
+    "website": "https://branko2f7.substack.com/",
+    "twitter": "https://twitter.com/BrankoMilan",
+    "substack": "https://branko2f7.substack.com/"
+  },
+  "complexity": "moderate",
+  "controversiality": "mainstream",
+  "dateAdded": "2025-10-01",
+  "featured": false,
+  "isStarter": true
+}
+
