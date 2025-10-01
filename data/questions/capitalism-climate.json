@@ -1,0 +1,105 @@
+{
+  "id": "q003",
+  "slug": "capitalism-climate",
+  "question": "Can capitalism solve climate change, or is it the problem?",
+  "hook": "Free markets gave us this crisis. Can they also get us out? Or do we need to fundamentally rethink how the economy works?",
+  "difficulty": "starter",
+  "tags": ["climate", "economics", "capitalism", "environment"],
+  "perspectives": [
+    {
+      "thinkerId": "kate-raworth",
+      "thinkerName": "Kate Raworth",
+      "stance": "GDP-driven capitalism is incompatible with a livable planet",
+      "summary": "Raworth, creator of 'Doughnut Economics,' argues that capitalism's obsession with endless growth is the root cause of climate breakdown. An economic system that requires 3% annual growth on a finite planet is fundamentally unsustainable. We need a new economic model that thrives without growth.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'Doughnut Economics'",
+          "text": "Our economic system is designed to grow, whether or not it makes us thrive. In the 21st century, we need economies that help us thrive, whether or not they grow. That's a profound shift—from endless expansion to balanced flourishing.",
+          "source": "Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist (2017)",
+          "context": "Her 'doughnut' model shows the safe space for humanity between planetary boundaries and social foundations."
+        },
+        {
+          "type": "talk",
+          "title": "A healthy economy should be designed to thrive, not grow",
+          "text": "No country has ever ended ecological degradation while continuing economic growth. The decoupling we need—growing GDP while shrinking resource use—has never been achieved at scale. Maybe it's time to admit that growth itself is the problem.",
+          "source": "TED Talk (2018)",
+          "url": "https://www.ted.com/talks/kate_raworth_a_healthy_economy_should_be_designed_to_thrive_not_grow",
+          "context": "This talk challenges the fundamental assumption that economic growth is always desirable or necessary."
+        }
+      ],
+      "learningPath": "post-growth-economics"
+    },
+    {
+      "thinkerId": "mariana-mazzucato",
+      "thinkerName": "Mariana Mazzucato",
+      "stance": "Capitalism can work, but only with bold government-led missions",
+      "summary": "Mazzucato argues capitalism isn't inherently the problem—it's how we're using it. Markets alone won't solve climate change because they optimize for short-term profit, not long-term planetary health. We need governments to set ambitious missions and direct markets toward public good, like we did with the moon landing.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'Mission Economy'",
+          "text": "The climate crisis requires the kind of bold, mission-oriented thinking that put humans on the moon. Not just carbon taxes or nudges, but massive public investment driving innovation toward a clear goal: a livable planet. Government must lead; markets will follow.",
+          "source": "Mission Economy: A Moonshot Guide to Changing Capitalism (2021)",
+          "context": "She advocates for 'entrepreneurial government' that actively shapes markets rather than just fixing failures."
+        },
+        {
+          "type": "essay",
+          "title": "Capitalism's Triple Crisis",
+          "text": "The market is a tool, not a master. It's brilliant at allocating resources efficiently once you tell it what to optimize for. But who decides the goal? That's politics, not economics. If we want markets to solve climate change, we need to redesign the rules of the game.",
+          "source": "Project Syndicate (2021)",
+          "context": "She argues the problem isn't capitalism per se, but our failure to direct it toward collective goals."
+        }
+      ],
+      "learningPath": "industrial-policy"
+    },
+    {
+      "thinkerId": "alex-epstein",
+      "thinkerName": "Alex Epstein",
+      "stance": "Fossil fuel capitalism has been humanity's greatest environmental achievement",
+      "summary": "Epstein provocatively argues that fossil fuels—and the capitalism that produced them—have made the world far safer from climate than ever before. Energy abundance lets us build sea walls, air conditioning, and resilient infrastructure. The real risk is energy poverty, not climate change.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'Fossil Future'",
+          "text": "Climate-related disaster deaths have plummeted 98% over the last century—not despite fossil fuels, but because of them. Energy makes us resilient. The poor countries most vulnerable to climate aren't suffering from too much development, but too little.",
+          "source": "Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas (2022)",
+          "context": "Epstein reframes climate debate around human flourishing rather than carbon reduction alone."
+        },
+        {
+          "type": "blog",
+          "title": "The Anti-Development Bias",
+          "text": "The fixation on reducing emissions ignores that fossil fuels have given billions of people longer, healthier lives. Any climate solution that makes energy expensive condemns the global poor to poverty. That's not moral—it's catastrophic.",
+          "source": "Energy Talking Points",
+          "context": "A controversial view that prioritizes energy access over emissions reduction, especially for developing nations."
+        }
+      ],
+      "learningPath": "energy-abundance"
+    },
+    {
+      "thinkerId": "naomi-klein",
+      "thinkerName": "Naomi Klein",
+      "stance": "Climate change exposes capitalism's fundamental contradictions",
+      "summary": "Klein argues climate change is the ultimate market failure—and it reveals that capitalism's logic (prioritizing profit over everything) is incompatible with a livable planet. The same system destroying the climate also blocks solutions through lobbying and disinformation. This changes everything.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'This Changes Everything'",
+          "text": "Climate change isn't just another issue to add to the list of things to worry about. It's a civilizational wake-up call, delivered in the language of fires, floods, and droughts. It tells us that we need an entirely new economic model.",
+          "source": "This Changes Everything: Capitalism vs. The Climate (2014)",
+          "context": "Klein connects climate crisis to broader critiques of neoliberal capitalism and extractive industries."
+        },
+        {
+          "type": "essay",
+          "title": "Why #NoDAPL is the New Keystone XL",
+          "text": "Fossil fuel companies have known about climate change for decades. They chose profit over the planet—not because of bad actors, but because that's what the system rewards. You can't fix a structural problem with individual solutions or market tweaks.",
+          "source": "The Intercept (2016)",
+          "context": "She documents how fossil fuel industry deliberately spread climate denial to protect profits."
+        }
+      ],
+      "learningPath": "climate-justice"
+    }
+  ],
+  "relatedQuestions": ["post-growth-economics", "industrial-policy", "climate-justice"]
+}
+

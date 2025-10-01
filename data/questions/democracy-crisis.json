@@ -1,0 +1,78 @@
+{
+  "id": "q004",
+  "slug": "democracy-crisis",
+  "question": "Is democracy in crisis, or just evolving?",
+  "hook": "Autocrats are rising, trust in institutions is collapsing, and social media seems to be tearing us apart. Is this the end of democracy—or growing pains?",
+  "difficulty": "starter",
+  "tags": ["democracy", "politics", "governance"],
+  "perspectives": [
+    {
+      "thinkerId": "yascha-mounk",
+      "thinkerName": "Yascha Mounk",
+      "stance": "Democracy is in real danger from populism and polarization",
+      "summary": "Mounk warns that liberal democracy is facing its most serious crisis since the 1930s. Populist leaders are eroding norms, institutions are losing legitimacy, and citizens are increasingly willing to embrace authoritarian alternatives. This isn't just evolution—it's deconsolidation.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'The People vs. Democracy'",
+          "text": "For the first time in decades, we can't take democracy for granted. Young people in particular are increasingly open to authoritarian alternatives. When asked if it's essential to live in a democracy, only 30% of American millennials say yes. That's a civilizational crisis.",
+          "source": "The People vs. Democracy: Why Our Freedom Is in Danger and How to Save It (2018)",
+          "context": "His research shows declining commitment to democratic norms across Western democracies."
+        },
+        {
+          "type": "essay",
+          "title": "The End of the End of History",
+          "text": "The optimism of the 1990s—that democracy had won and history was over—now looks naive. Authoritarian regimes are learning how to maintain power while allowing some freedoms. Democracy isn't inevitable; it requires constant defense.",
+          "source": "Journal of Democracy (2018)",
+          "context": "He challenges Fukuyama's 'end of history' thesis, showing how democracy can die."
+        }
+      ]
+    },
+    {
+      "thinkerId": "francis-fukuyama",
+      "thinkerName": "Francis Fukuyama",
+      "stance": "Democracy faces challenges but remains the best system we have",
+      "summary": "Fukuyama, famous for declaring the 'end of history' after the Cold War, maintains that liberal democracy is still superior to alternatives, but it needs renewal. The crisis isn't democracy itself—it's that democracies aren't delivering for citizens. Fix governance, and faith in democracy returns.",
+      "excerpts": [
+        {
+          "type": "essay",
+          "title": "Against Identity Politics",
+          "text": "The problem isn't democracy—it's that modern democracies have fragmented into competing identity groups that can't find common ground. We need to rebuild a sense of shared citizenship and national identity that transcends tribal divisions.",
+          "source": "Foreign Affairs (2018)",
+          "context": "He argues identity politics on both left and right are undermining democratic cohesion."
+        },
+        {
+          "type": "book",
+          "title": "From 'Political Order and Political Decay'",
+          "text": "Institutions matter more than ideology. China's authoritarianism may look efficient, but it can't adapt or self-correct like democracies can. The question is whether democracies can reform their sclerotic institutions before citizens lose patience.",
+          "source": "Political Order and Political Decay (2014)",
+          "context": "He emphasizes that democracy's strength is adaptability—if institutions can reform."
+        }
+      ]
+    },
+    {
+      "thinkerId": "timothy-snyder",
+      "thinkerName": "Timothy Snyder",
+      "stance": "Democracy is under deliberate attack by authoritarian forces",
+      "summary": "Snyder argues we're witnessing coordinated attacks on democracy by authoritarian states and their enablers. Russia's disinformation campaigns, rising autocrats, and the erosion of truth itself are creating conditions for tyranny. This requires active resistance, not passive hope that democracy will prevail.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'On Tyranny'",
+          "text": "History shows that democracies don't die in one dramatic coup. They erode gradually as citizens become complicit through inaction. Tyranny begins when we stop defending institutions we take for granted. Do not obey in advance.",
+          "source": "On Tyranny: Twenty Lessons from the Twentieth Century (2017)",
+          "context": "Drawing on 20th century history, he provides practical lessons for defending democracy."
+        },
+        {
+          "type": "essay",
+          "title": "The Road to Unfreedom",
+          "text": "Russia's model of authoritarianism isn't traditional dictatorship—it's the weaponization of information to make truth irrelevant. When citizens can't agree on basic facts, democracy becomes impossible. This is the real threat.",
+          "source": "The Road to Unfreedom (2018)",
+          "context": "He analyzes how disinformation campaigns undermine democratic discourse itself."
+        }
+      ]
+    }
+  ],
+  "relatedQuestions": ["social-media-polarization", "truth-in-post-truth-era"]
+}
+

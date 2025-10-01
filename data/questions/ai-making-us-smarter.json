@@ -1,0 +1,106 @@
+{
+  "id": "q002",
+  "slug": "ai-making-us-smarter",
+  "question": "Is AI making us smarter or just better at faking it?",
+  "hook": "ChatGPT can write your essays, solve your math problems, and debug your code. But are you learning anything—or just outsourcing your thinking?",
+  "difficulty": "starter",
+  "tags": ["AI", "technology", "education", "intelligence"],
+  "perspectives": [
+    {
+      "thinkerId": "gary-marcus",
+      "thinkerName": "Gary Marcus",
+      "stance": "AI is making us intellectually lazy and less resilient",
+      "summary": "Marcus, a cognitive scientist and AI critic, argues that over-relying on AI tools atrophies our critical thinking muscles. When we delegate problem-solving to machines, we lose the struggle that builds genuine understanding. AI isn't augmenting intelligence—it's replacing it.",
+      "excerpts": [
+        {
+          "type": "essay",
+          "title": "The Dark Risk of Large Language Models",
+          "text": "The real risk isn't that AI becomes too smart, but that we become too dependent on it. When students use ChatGPT to write essays, they're not learning to think—they're learning to prompt. That's not intelligence augmentation; it's intelligence abdication.",
+          "source": "The Road to AI We Can Trust (2023)",
+          "context": "Marcus has been a vocal critic of the hype around large language models, warning about their limitations and our over-reliance on them."
+        },
+        {
+          "type": "interview",
+          "title": "On AI and Human Cognition",
+          "text": "Every time you offload a cognitive task to AI, you're missing an opportunity to strengthen your own thinking. It's like taking an elevator instead of stairs—convenient, but you're not building any muscle.",
+          "source": "Wired Interview (2023)",
+          "context": "Drawing on cognitive science research, Marcus explains how intellectual challenge is essential for learning."
+        }
+      ],
+      "learningPath": "attention-economy"
+    },
+    {
+      "thinkerId": "andy-matuschak",
+      "thinkerName": "Andy Matuschak",
+      "stance": "AI can amplify thinking, but only if designed as a tool for thought",
+      "summary": "Matuschak, who researches human-computer interaction and learning tools, argues AI's impact depends entirely on how we use it. Most AI tools encourage passive consumption, but if designed as 'tools for thought,' AI could genuinely expand our cognitive abilities—like calculators did for math.",
+      "excerpts": [
+        {
+          "type": "essay",
+          "title": "Why books don't work",
+          "text": "Most educational technology, including AI tutors, fails because it doesn't engage the core cognitive processes that produce learning. Reading or chatting with AI creates the illusion of learning without the deep processing that builds understanding.",
+          "source": "Essay (2019)",
+          "url": "https://andymatuschak.org/books",
+          "context": "Matuschak's research on memory and learning systems informs his view that AI must be intentionally designed to support deep thinking."
+        },
+        {
+          "type": "blog",
+          "title": "Augmenting cognition",
+          "text": "The question isn't whether AI makes us smarter, but how we design AI systems that genuinely augment human cognition rather than replacing it. A calculator makes you better at math by handling tedious computation so you can focus on problem-solving. AI could do the same—if we build it right.",
+          "source": "Notes on 'Tools for Thought' (2022)",
+          "context": "He draws on the history of cognitive tools to show that technology can enhance thinking when properly designed."
+        }
+      ],
+      "learningPath": "future-of-learning"
+    },
+    {
+      "thinkerId": "ethan-mollick",
+      "thinkerName": "Ethan Mollick",
+      "stance": "AI is a superpower if you learn to use it strategically",
+      "summary": "Mollick, a professor who studies AI's impact on work and education, argues that AI is genuinely making people more capable—but only those who learn to use it well. The gap isn't between humans and AI, but between people who master AI tools and those who don't. It's a new literacy.",
+      "excerpts": [
+        {
+          "type": "essay",
+          "title": "My class required AI. Here's what I learned",
+          "text": "When used thoughtfully, AI doesn't replace thinking—it accelerates it. My students who used AI well weren't cheating; they were working at a higher level of abstraction, focusing on strategy and creativity while AI handled execution. That's amplification, not replacement.",
+          "source": "Harvard Business Review (2023)",
+          "context": "Mollick requires his Wharton students to use AI and has observed how it changes the nature of knowledge work."
+        },
+        {
+          "type": "blog",
+          "title": "On Cyborgs and AI Copilots",
+          "text": "We're becoming cyborgs—humans augmented by AI. The question is whether you'll be a good cyborg or a bad one. Good cyborgs learn to prompt well, verify outputs, and use AI for ideation. Bad cyborgs blindly copy-paste. The tool is the same; the outcomes are radically different.",
+          "source": "One Useful Thing Blog (2023)",
+          "url": "https://www.oneusefulthing.org",
+          "context": "His popular blog documents real-world experiments with AI in education and business."
+        }
+      ],
+      "learningPath": "future-of-work"
+    },
+    {
+      "thinkerId": "paul-bloom",
+      "thinkerName": "Paul Bloom",
+      "stance": "Intelligence isn't about facts—it's about wisdom, which AI can't provide",
+      "summary": "Bloom, a psychologist who studies morality and meaning, argues we're asking the wrong question. Intelligence isn't just problem-solving; it's judgment, wisdom, and understanding context. AI might help with the former, but it's useless for the latter—and that's what actually matters for living well.",
+      "excerpts": [
+        {
+          "type": "book",
+          "title": "From 'Psych'",
+          "text": "Smart isn't the same as wise. You can ace every test and still make terrible life decisions. AI can make you appear smarter on tests, but it can't teach you judgment, empathy, or the hard-won insights that come from lived experience.",
+          "source": "Psych: The Story of the Human Mind (2023)",
+          "context": "Bloom distinguishes between cognitive intelligence and practical wisdom, arguing the latter is uniquely human."
+        },
+        {
+          "type": "essay",
+          "title": "The value of struggle",
+          "text": "There's growing evidence that difficulty is essential for learning. When AI removes all friction, it also removes the struggle that produces understanding. Easy isn't always better—sometimes the hard way is the only way that works.",
+          "source": "The Atlantic (2022)",
+          "context": "Research on 'desirable difficulties' shows that challenge is crucial for deep learning and retention."
+        }
+      ],
+      "learningPath": "what-is-intelligence"
+    }
+  ],
+  "relatedQuestions": ["attention-economy", "future-of-learning", "what-is-intelligence"]
+}
+
