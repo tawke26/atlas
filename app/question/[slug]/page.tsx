@@ -57,7 +57,7 @@ export default async function QuestionPage({ params }: { params: Promise<{ slug:
     <div className="min-h-screen bg-gray-50">
       <div className="container mx-auto px-4 py-12 max-w-5xl">
         {/* The Question */}
-        <div className="text-center mb-16 max-w-3xl mx-auto">
+        <div className="text-center mb-16 max-w-3xl mx-auto animate-fadeIn">
           <div className="text-sm uppercase tracking-widest text-gray-500 font-medium mb-4">
             The Question
           </div>
@@ -70,7 +70,7 @@ export default async function QuestionPage({ params }: { params: Promise<{ slug:
         </div>
 
         {/* The Choice */}
-        <div className="mb-12 text-center">
+        <div className="mb-12 text-center animate-fadeIn" style={{ animationDelay: '200ms' }}>
           <p className="text-lg text-gray-700 font-medium">
             Choose the perspective that intrigues you most
           </p>
@@ -79,13 +79,28 @@ export default async function QuestionPage({ params }: { params: Promise<{ slug:
           </p>
         </div>
 
+        {/* Visual pathway separator */}
+        <div className="flex items-center justify-center mb-8 animate-fadeIn" style={{ animationDelay: '300ms' }}>
+          <div className="flex gap-2">
+            <div className="w-1 h-12 bg-gradient-to-b from-gray-300 to-transparent rounded-full animate-growDown" style={{ animationDelay: '400ms' }}></div>
+            <div className="w-1 h-12 bg-gradient-to-b from-gray-300 to-transparent rounded-full animate-growDown" style={{ animationDelay: '450ms' }}></div>
+            <div className="w-1 h-12 bg-gradient-to-b from-gray-300 to-transparent rounded-full animate-growDown" style={{ animationDelay: '500ms' }}></div>
+            <div className="w-1 h-12 bg-gradient-to-b from-gray-300 to-transparent rounded-full animate-growDown" style={{ animationDelay: '550ms' }}></div>
+          </div>
+        </div>
+
         {/* Perspective Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {question.perspectives.map((perspective, index) => (
             <Link
               key={perspective.thinkerId}
               href={`/explore/${question.slug}/${perspective.thinkerId}`}
-              className="block bg-white p-8 rounded-xl border-2 border-gray-200 hover:border-gray-400 hover:shadow-xl transition-all group relative overflow-hidden"
+              className="block bg-white p-8 rounded-xl border-2 border-gray-200 hover:border-gray-400 hover:shadow-xl transition-all group relative overflow-hidden animate-fadeInUp"
+              style={{ 
+                animationDelay: `${index * 150}ms`,
+                opacity: 0,
+                animationFillMode: 'forwards'
+              }}
             >
               {/* Number indicator */}
               <div className="absolute top-4 right-4 w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-gray-400 font-bold text-lg">
