@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import fs from 'fs';
 import path from 'path';
+import { getTomorrowsPreview } from '@/lib/daily-question';
 
 interface ContentExcerpt {
   type: 'quote' | 'blog' | 'talk' | 'interview' | 'essay' | 'book';
@@ -75,6 +76,8 @@ export default async function ExplorePage({
   if (!perspective) {
     notFound();
   }
+
+  const tomorrowPreview = getTomorrowsPreview();
 
   return (
     <div className="min-h-screen bg-white">
@@ -172,13 +175,30 @@ export default async function ExplorePage({
           ))}
         </div>
 
+        {/* Tomorrow's Preview */}
+        {tomorrowPreview && (
+          <div className="mt-16 p-8 bg-gray-50 rounded-xl border border-gray-200">
+            <div className="text-center space-y-3">
+              <div className="text-sm uppercase tracking-widest text-gray-500 font-medium">
+                Tomorrow's Question
+              </div>
+              <h3 className="text-2xl font-bold">{tomorrowPreview.question}</h3>
+              <p className="text-gray-600 max-w-2xl mx-auto">
+                {tomorrowPreview.hook}
+              </p>
+              <p className="text-sm text-gray-500 mt-4">
+                Come back tomorrow to explore different perspectives on this question
+              </p>
+            </div>
+          </div>
+        )}
+
         {/* What's next */}
-        <div className="mt-20 pt-12 border-t border-gray-200">
+        <div className="mt-12 pt-12 border-t border-gray-200">
           <div className="text-center space-y-6">
-            <h2 className="text-2xl font-bold">Where to next?</h2>
+            <h2 className="text-2xl font-bold">Want to explore more today?</h2>
             <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-              You've explored one perspective on this question. Want to see how others think about it, 
-              or dive into a new question?
+              See how other thinkers approach this question, or return to today's question.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
@@ -186,16 +206,16 @@ export default async function ExplorePage({
                 href={`/question/${questionSlug}`}
                 className="px-6 py-3 border-2 border-gray-300 rounded-lg hover:border-gray-500 transition-all hover:shadow-md text-center min-w-[240px]"
               >
-                <span className="block font-medium">See other perspectives</span>
-                <span className="block text-sm text-gray-600 mt-1">on this question</span>
+                <span className="block font-medium">Compare perspectives</span>
+                <span className="block text-sm text-gray-600 mt-1">See all views on this question</span>
               </Link>
               
               <Link
                 href="/"
                 className="px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-800 transition-all hover:shadow-lg text-center min-w-[240px] font-medium"
               >
-                <span className="block">Explore new questions</span>
-                <span className="block text-sm text-gray-300 mt-1">Continue your journey</span>
+                <span className="block">Return to today's question</span>
+                <span className="block text-sm text-gray-300 mt-1">Start page</span>
               </Link>
             </div>
           </div>
