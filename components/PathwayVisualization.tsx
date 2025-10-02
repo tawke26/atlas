@@ -158,22 +158,25 @@ export default function PathwayVisualization({
                 <Link
                   key={perspective.thinkerId}
                   href={`/explore/${questionSlug}/${perspective.thinkerId}`}
-                  className="relative group"
+                  className="relative group block"
                   onMouseEnter={() => setHoveredIndex(index)}
                   onMouseLeave={() => setHoveredIndex(null)}
-                  style={{
-                    animationDelay: `${800 + index * 200}ms`,
-                    opacity: 0
-                  }}
                 >
-                  <div className={`
-                    relative bg-white rounded-xl p-6 shadow-lg border-2 
-                    transition-all duration-500 animate-fadeInUp
-                    ${hoveredIndex === index 
-                      ? 'border-indigo-500 shadow-2xl scale-105 shadow-indigo-200' 
-                      : 'border-gray-200 hover:border-gray-400'
-                    }
-                  `}>
+                  <div 
+                    className={`
+                      relative bg-white rounded-xl p-6 shadow-lg border-2 
+                      transition-all duration-500
+                      ${hoveredIndex === index 
+                        ? 'border-indigo-500 shadow-2xl scale-105 shadow-indigo-200' 
+                        : 'border-gray-200 hover:border-gray-400'
+                      }
+                    `}
+                    style={{
+                      animation: 'fadeInUp 0.6s ease-out forwards',
+                      animationDelay: `${800 + index * 200}ms`,
+                      opacity: 0
+                    }}
+                  >
                     {/* Node indicator */}
                     <div className={`
                       absolute -top-3 -right-3 w-8 h-8 rounded-full 
@@ -240,6 +243,17 @@ export default function PathwayVisualization({
           to {
             opacity: 1;
             transform: scale(1);
+          }
+        }
+
+        @keyframes fadeInUp {
+          from {
+            opacity: 0;
+            transform: translateY(30px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
           }
         }
 
