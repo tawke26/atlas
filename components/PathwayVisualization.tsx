@@ -33,18 +33,23 @@ export default function PathwayVisualization({
 
   // Calculate path positions
   const centerX = 50; // percentage
-  const centerY = 20; // percentage
+  const centerY = 25; // percentage (moved down)
   
   const getCardPosition = (index: number, total: number) => {
-    // Arrange cards in a circle around the question
-    const radius = 35; // percentage
-    const angleStep = (Math.PI * 1.5) / (total - 1); // Spread across 270 degrees
-    const startAngle = -Math.PI / 4; // Start from top-left
-    const angle = startAngle + (index * angleStep);
+    // Position cards in a grid-like pattern
+    const cols = 2;
+    const row = Math.floor(index / cols);
+    const col = index % cols;
+    
+    // Calculate position based on grid
+    const startX = 25; // Start from 25%
+    const xSpacing = 50; // 50% between columns
+    const yStart = 50; // Start at 50%
+    const ySpacing = 25; // 25% between rows
     
     return {
-      x: centerX + radius * Math.cos(angle),
-      y: 55 + radius * Math.sin(angle) // Start lower to give space
+      x: startX + (col * xSpacing),
+      y: yStart + (row * ySpacing)
     };
   };
 
@@ -53,17 +58,18 @@ export default function PathwayVisualization({
     
     // Create curved path from center to card
     const controlPointX = centerX + (target.x - centerX) * 0.5;
-    const controlPointY = centerY + (target.y - centerY) * 0.3;
+    const controlPointY = centerY + (target.y - centerY) * 0.5;
     
     return `M ${centerX} ${centerY} Q ${controlPointX} ${controlPointY} ${target.x} ${target.y}`;
   };
 
   return (
-    <div ref={containerRef} className="relative w-full min-h-screen py-12">
+    <div ref={containerRef} className="relative w-full py-12">
       {/* SVG Layer for connections */}
       <svg 
         className="absolute inset-0 w-full h-full pointer-events-none z-0"
-        style={{ minHeight: '800px' }}
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 100 100"
       >
         <defs>
           {/* Gradient for paths */}
@@ -118,11 +124,10 @@ export default function PathwayVisualization({
       </svg>
 
       {/* Content Layer */}
-      <div className="relative z-10 container mx-auto px-4">
+      <div className="relative z-10 container mx-auto px-4 max-w-7xl">
         {/* Central Question Node */}
         <div 
-          className="absolute left-1/2 transform -translate-x-1/2"
-          style={{ top: '10%' }}
+          className="flex justify-center pt-12 mb-8"
         >
           <div className="relative">
             {/* Pulsing ring effect */}
@@ -144,8 +149,8 @@ export default function PathwayVisualization({
         </div>
 
         {/* Perspective Cards */}
-        <div className="relative" style={{ marginTop: '350px' }}>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto">
+        <div className="relative mt-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
             {perspectives.map((perspective, index) => {
               const position = getCardPosition(index, perspectives.length);
               
